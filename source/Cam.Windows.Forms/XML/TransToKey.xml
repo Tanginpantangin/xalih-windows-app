@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Keys>
+  <Key id="1">
+    <KeyCode>87</KeyCode>
+    <Rumi>0</Rumi>
+    <Inrasara>0</Inrasara>
+    <KTT>0</KTT>
+  </Key>
+  <Key id="2">
+    <KeyCode>78</KeyCode>
+    <Rumi>1</Rumi>
+    <Inrasara>1</Inrasara>
+    <KTT>1</KTT>
+  </Key>
+  <Key id="3">
+    <KeyCode>79</KeyCode>
+    <Rumi>2</Rumi>
+    <Inrasara>2</Inrasara>
+    <KTT>2</KTT>
+  </Key>
+  <Key id="4">
+    <KeyCode>80</KeyCode>
+    <Rumi>3</Rumi>
+    <Inrasara>3</Inrasara>
+    <KTT>3</KTT>
+  </Key>
+  <Key id="5">
+    <KeyCode>81</KeyCode>
+    <Rumi>4</Rumi>
+    <Inrasara>4</Inrasara>
+    <KTT>4</KTT>
+  </Key>
+  <Key id="6">
+    <KeyCode>82</KeyCode>
+    <Rumi>5</Rumi>
+    <Inrasara>5</Inrasara>
+    <KTT>5</KTT>
+  </Key>
+  <Key id="7">
+    <KeyCode>83</KeyCode>
+    <Rumi>6</Rumi>
+    <Inrasara>6</Inrasara>
+    <KTT>6</KTT>
+  </Key>
+  <Key id="8">
+    <KeyCode>84</KeyCode>
+    <Rumi>7</Rumi>
+    <Inrasara>7</Inrasara>
+    <KTT>7</KTT>
+  </Key>
+  <Key id="9">
+    <KeyCode>85</KeyCode>
+    <Rumi>8</Rumi>
+    <Inrasara>8</Inrasara>
+    <KTT>8</KTT>
+  </Key>
+  <Key id="10">
+    <KeyCode>86</KeyCode>
+    <Rumi>9</Rumi>
+    <Inrasara>9</Inrasara>
+    <KTT>9</KTT>
+  </Key>
+  <Key id="11">
+    <KeyCode>88</KeyCode>
+    <Rumi>,</Rumi>
+    <Inrasara>,</Inrasara>
+    <KTT>,</KTT>
+  </Key>
+  <Key id="12">
+    <KeyCode>89</KeyCode>
+    <Rumi>.</Rumi>
+    <Inrasara>.</Inrasara>
+    <KTT>.</KTT>
+  </Key>
+  <Key id="13">
+    <KeyCode>90</KeyCode>
+    <Rumi>@</Rumi>
+    <Inrasara>@</Inrasara>
+    <KTT>@</KTT>
+  </Key>
+  <Key id="14">
+    <KeyCode>91</KeyCode>
+    <Rumi>:</Rumi>
+    <Inrasara>:</Inrasara>
+    <KTT>:</KTT>
+  </Key>
+  <Key id="15">
+    <KeyCode>92</KeyCode>
+    <Rumi>!</Rumi>
+    <Inrasara>!</Inrasara>
+    <KTT>!</KTT>
+  </Key>
+  <Key id="16">
+    <KeyCode>93</KeyCode>
+    <Rumi>?</Rumi>
+    <Inrasara>?</Inrasara>
+    <KTT>?</KTT>
+  </Key>
+  <Key id="17">
+    <KeyCode>94</KeyCode>
+    <Rumi>-</Rumi>
+    <Inrasara>-</Inrasara>
+    <KTT>-</KTT>
+  </Key>
+  <Key id="18">
+    <KeyCode>95</KeyCode>
+    <Rumi>+</Rumi>
+    <Inrasara>+</Inrasara>
+    <KTT>+</KTT>
+  </Key>
+  <Key id="19">
+    <KeyCode>35</KeyCode>
+    <Rumi>a</Rumi>
+    <Inrasara>a</Inrasara>
+    <KTT>a</KTT>
+  </Key>
+  <Key id="20">
+    <KeyCode>67</KeyCode>
+    <Rumi>â</Rumi>
+    <Inrasara>ư</Inrasara>
+    <KTT>ư</KTT>
+  </Key>
+  <Key id="21">
+    <KeyCode>58</KeyCode>
+    <Rumi>ai</Rumi>
+    <Inrasara>ai</Inrasara>
+    <KTT>ai</KTT>
+  </Key>
+  <Key id="22">
+    <KeyCode>39</KeyCode>
+    <Rumi>ai</Rumi>
+    <Inrasara>ai</Inrasara>
+    <KTT>ai</KTT>
+  </Key>
+  <Key id="23">
+    <KeyCode>74</KeyCode>
+    <Rumi>ao</Rumi>
+    <Inrasara>au</Inrasara>
+    <KTT>o</KTT>
+  </Key>
+  <Key id="24">
+    <KeyCode>5774</KeyCode>
+    <Rumi>ao</Rumi>
+    <Inrasara>au</Inrasara>
+    <KTT>oo</KTT>
+  </Key>
+  <Key id="25">
+    <KeyCode>76</KeyCode>
+    <Rumi>aom</Rumi>
+    <Inrasara>aum</Inrasara>
+    <KTT>om</KTT>
+  </Key>
+  <Key id="26">
+    <KeyCode>5776</KeyCode>
+    <Rumi>aom</Rumi>
+    <Inrasara>aum</Inrasara>
+    <KTT>oom</KTT>
+  </Key>
+  <Key id="27">
+    <KeyCode>75</KeyCode>
+    <Rumi>aong</Rumi>
+    <Inrasara>aung</Inrasara>
+    <KTT>ong</KTT>
+  </Key>
+  <Key id="28">
+    <KeyCode>5775</KeyCode>
+    <Rumi>aong</Rumi>
+    <Inrasara>aung</Inrasara>
+    <KTT>oong</KTT>
+  </Key>
+  <Key id="29">
+    <KeyCode>22</KeyCode>
+    <Rumi>b</Rumi>
+    <Inrasara>b</Inrasara>
+    <KTT>b</KTT>
+  </Key>
+  <Key id="30">
+    <KeyCode>23</KeyCode>
+    <Rumi>bh</Rumi>
+    <Inrasara>bh</Inrasara>
+    <KTT>bh</KTT>
+  </Key>
+  <Key id="31">
+    <KeyCode>6</KeyCode>
+    <Rumi>c</Rumi>
+    <Inrasara>c</Inrasara>
+    <KTT>c</KTT>
+  </Key>
+  <Key id="32">
+    <KeyCode>44</KeyCode>
+    <Rumi>c</Rumi>
+    <Inrasara>c</Inrasara>
+    <KTT>c</KTT>
+  </Key>
+  <Key id="33">
+    <KeyCode>7</KeyCode>
+    <Rumi>ch</Rumi>
+    <Inrasara>ch</Inrasara>
+    <KTT>ch</KTT>
+  </Key>
+  <Key id="34">
+    <KeyCode>15</KeyCode>
+    <Rumi>d</Rumi>
+    <Inrasara>d</Inrasara>
+    <KTT>d</KTT>
+  </Key>
+  <Key id="35">
+    <KeyCode>16</KeyCode>
+    <Rumi>dh</Rumi>
+    <Inrasara>dh</Inrasara>
+    <KTT>dh</KTT>
+  </Key>
+  <Key id="36">
+    <KeyCode>63</KeyCode>
+    <Rumi>e</Rumi>
+    <Inrasara>ơ</Inrasara>
+    <KTT>ơ</KTT>
+  </Key>
+  <Key id="37">
+    <KeyCode>38</KeyCode>
+    <Rumi>é</Rumi>
+    <Inrasara>e</Inrasara>
+    <KTT>ê</KTT>
+  </Key>
+  <Key id="38">
+    <KeyCode>5763</KeyCode>
+    <Rumi>é</Rumi>
+    <Inrasara>e</Inrasara>
+    <KTT>ê</KTT>
+  </Key>
+  <Key id="39">
+    <KeyCode>5756</KeyCode>
+    <Rumi>é</Rumi>
+    <Inrasara>e</Inrasara>
+    <KTT>ê</KTT>
+  </Key>
+  <Key id="40">
+    <KeyCode>62</KeyCode>
+    <Rumi>ei</Rumi>
+    <Inrasara>ei</Inrasara>
+    <KTT>ei</KTT>
+  </Key>
+  <Key id="41">
+    <KeyCode>64</KeyCode>
+    <Rumi>em</Rumi>
+    <Inrasara>ơm</Inrasara>
+    <KTT>ơm</KTT>
+  </Key>
+  <Key id="42">
+    <KeyCode>5764</KeyCode>
+    <Rumi>ém</Rumi>
+    <Inrasara>em</Inrasara>
+    <KTT>êm</KTT>
+  </Key>
+  <Key id="43">
+    <KeyCode>65</KeyCode>
+    <Rumi>eng</Rumi>
+    <Inrasara>ơng</Inrasara>
+    <KTT>ơng</KTT>
+  </Key>
+  <Key id="44">
+    <KeyCode>2</KeyCode>
+    <Rumi>g</Rumi>
+    <Inrasara>g</Inrasara>
+    <KTT>g</KTT>
+  </Key>
+  <Key id="45">
+    <KeyCode>42</KeyCode>
+    <Rumi>g</Rumi>
+    <Inrasara>g</Inrasara>
+    <KTT>g</KTT>
+  </Key>
+  <Key id="46">
+    <KeyCode>3</KeyCode>
+    <Rumi>gh</Rumi>
+    <Inrasara>gh</Inrasara>
+    <KTT>gh</KTT>
+  </Key>
+  <Key id="47">
+    <KeyCode>32</KeyCode>
+    <Rumi>h</Rumi>
+    <Inrasara>h</Inrasara>
+    <KTT>h</KTT>
+  </Key>
+  <Key id="48">
+    <KeyCode>54</KeyCode>
+    <Rumi>h</Rumi>
+    <Inrasara>h</Inrasara>
+    <KTT>h</KTT>
+  </Key>
+  <Key id="49">
+    <KeyCode>36</KeyCode>
+    <Rumi>i</Rumi>
+    <Inrasara>i</Inrasara>
+    <KTT>i</KTT>
+  </Key>
+  <Key id="50">
+    <KeyCode>59</KeyCode>
+    <Rumi>i</Rumi>
+    <Inrasara>i</Inrasara>
+    <KTT>i</KTT>
+  </Key>
+  <Key id="51">
+    <KeyCode>69</KeyCode>
+    <Rumi>i</Rumi>
+    <Inrasara>i</Inrasara>
+    <KTT>i</KTT>
+  </Key>
+  <Key id="52">
+    <KeyCode>61</KeyCode>
+    <Rumi>im</Rumi>
+    <Inrasara>im</Inrasara>
+    <KTT>im</KTT>
+  </Key>
+  <Key id="53">
+    <KeyCode>8</KeyCode>
+    <Rumi>j</Rumi>
+    <Inrasara>j</Inrasara>
+    <KTT>j</KTT>
+  </Key>
+  <Key id="54">
+    <KeyCode>9</KeyCode>
+    <Rumi>jh</Rumi>
+    <Inrasara>jh</Inrasara>
+    <KTT>jh</KTT>
+  </Key>
+  <Key id="55">
+    <KeyCode>0</KeyCode>
+    <Rumi>k</Rumi>
+    <Inrasara>k</Inrasara>
+    <KTT>k</KTT>
+  </Key>
+  <Key id="56">
+    <KeyCode>41</KeyCode>
+    <Rumi>k</Rumi>
+    <Inrasara>k</Inrasara>
+    <KTT>k</KTT>
+  </Key>
+  <Key id="57">
+    <KeyCode>1</KeyCode>
+    <Rumi>kh</Rumi>
+    <Inrasara>kh</Inrasara>
+    <KTT>kh</KTT>
+  </Key>
+  <Key id="58">
+    <KeyCode>29</KeyCode>
+    <Rumi>l</Rumi>
+    <Inrasara>l</Inrasara>
+    <KTT>l</KTT>
+  </Key>
+  <Key id="59">
+    <KeyCode>51</KeyCode>
+    <Rumi>l</Rumi>
+    <Inrasara>l</Inrasara>
+    <KTT>l</KTT>
+  </Key>
+  <Key id="60">
+    <KeyCode>71</KeyCode>
+    <Rumi>l</Rumi>
+    <Inrasara>l</Inrasara>
+    <KTT>l</KTT>
+  </Key>
+  <Key id="61">
+    <KeyCode>72</KeyCode>
+    <Rumi>lu</Rumi>
+    <Inrasara>lw</Inrasara>
+    <KTT>lw</KTT>
+  </Key>
+  <Key id="62">
+    <KeyCode>73</KeyCode>
+    <Rumi>lu</Rumi>
+    <Inrasara>lu</Inrasara>
+    <KTT>lu</KTT>
+  </Key>
+  <Key id="63">
+    <KeyCode>24</KeyCode>
+    <Rumi>m</Rumi>
+    <Inrasara>m</Inrasara>
+    <KTT>m</KTT>
+  </Key>
+  <Key id="64">
+    <KeyCode>48</KeyCode>
+    <Rumi>m</Rumi>
+    <Inrasara>m</Inrasara>
+    <KTT>m</KTT>
+  </Key>
+  <Key id="65">
+    <KeyCode>26</KeyCode>
+    <Rumi>mb</Rumi>
+    <Inrasara>bb</Inrasara>
+    <KTT>bb</KTT>
+  </Key>
+  <Key id="66">
+    <KeyCode>17</KeyCode>
+    <Rumi>n</Rumi>
+    <Inrasara>n</Inrasara>
+    <KTT>n</KTT>
+  </Key>
+  <Key id="67">
+    <KeyCode>46</KeyCode>
+    <Rumi>n</Rumi>
+    <Inrasara>n</Inrasara>
+    <KTT>n</KTT>
+  </Key>
+  <Key id="68">
+    <KeyCode>19</KeyCode>
+    <Rumi>nd</Rumi>
+    <Inrasara>đ</Inrasara>
+    <KTT>đ</KTT>
+  </Key>
+  <Key id="69">
+    <KeyCode>4</KeyCode>
+    <Rumi>ng</Rumi>
+    <Inrasara>ng</Inrasara>
+    <KTT>ng</KTT>
+  </Key>
+  <Key id="70">
+    <KeyCode>43</KeyCode>
+    <Rumi>ng</Rumi>
+    <Inrasara>ng</Inrasara>
+    <KTT>ng</KTT>
+  </Key>
+  <Key id="71">
+    <KeyCode>77</KeyCode>
+    <Rumi>ng</Rumi>
+    <Inrasara>ng</Inrasara>
+    <KTT>ng</KTT>
+  </Key>
+  <Key id="72">
+    <KeyCode>12</KeyCode>
+    <Rumi>nj</Rumi>
+    <Inrasara>nhj</Inrasara>
+    <KTT>nhj</KTT>
+  </Key>
+  <Key id="73">
+    <KeyCode>10</KeyCode>
+    <Rumi>ny</Rumi>
+    <Inrasara>nh</Inrasara>
+    <KTT>nh</KTT>
+  </Key>
+  <Key id="74">
+    <KeyCode>40</KeyCode>
+    <Rumi>o</Rumi>
+    <Inrasara>o</Inrasara>
+    <KTT>ô</KTT>
+  </Key>
+  <Key id="75">
+    <KeyCode>57</KeyCode>
+    <Rumi>o</Rumi>
+    <Inrasara>o</Inrasara>
+    <KTT>ô</KTT>
+  </Key>
+  <Key id="76">
+    <KeyCode>20</KeyCode>
+    <Rumi>p</Rumi>
+    <Inrasara>p</Inrasara>
+    <KTT>p</KTT>
+  </Key>
+  <Key id="77">
+    <KeyCode>47</KeyCode>
+    <Rumi>p</Rumi>
+    <Inrasara>p</Inrasara>
+    <KTT>p</KTT>
+  </Key>
+  <Key id="78">
+    <KeyCode>21</KeyCode>
+    <Rumi>ph</Rumi>
+    <Inrasara>ph</Inrasara>
+    <KTT>ph</KTT>
+  </Key>
+  <Key id="79">
+    <KeyCode>33</KeyCode>
+    <Rumi>pp</Rumi>
+    <Inrasara>pp</Inrasara>
+    <KTT>pp</KTT>
+  </Key>
+  <Key id="80">
+    <KeyCode>28</KeyCode>
+    <Rumi>r</Rumi>
+    <Inrasara>r</Inrasara>
+    <KTT>r</KTT>
+  </Key>
+  <Key id="81">
+    <KeyCode>50</KeyCode>
+    <Rumi>r</Rumi>
+    <Inrasara>r</Inrasara>
+    <KTT>r</KTT>
+  </Key>
+  <Key id="82">
+    <KeyCode>68</KeyCode>
+    <Rumi>r</Rumi>
+    <Inrasara>r</Inrasara>
+    <KTT>r</KTT>
+  </Key>
+  <Key id="83">
+    <KeyCode>34</KeyCode>
+    <Rumi>s</Rumi>
+    <Inrasara>s</Inrasara>
+    <KTT>s</KTT>
+  </Key>
+  <Key id="84">
+    <KeyCode>13</KeyCode>
+    <Rumi>t</Rumi>
+    <Inrasara>t</Inrasara>
+    <KTT>t</KTT>
+  </Key>
+  <Key id="85">
+    <KeyCode>45</KeyCode>
+    <Rumi>t</Rumi>
+    <Inrasara>t</Inrasara>
+    <KTT>t</KTT>
+  </Key>
+  <Key id="86">
+    <KeyCode>14</KeyCode>
+    <Rumi>th</Rumi>
+    <Inrasara>th</Inrasara>
+    <KTT>th</KTT>
+  </Key>
+  <Key id="87">
+    <KeyCode>37</KeyCode>
+    <Rumi>u</Rumi>
+    <Inrasara>u</Inrasara>
+    <KTT>u</KTT>
+  </Key>
+  <Key id="88">
+    <KeyCode>66</KeyCode>
+    <Rumi>u</Rumi>
+    <Inrasara>u</Inrasara>
+    <KTT>u</KTT>
+  </Key>
+  <Key id="89">
+    <KeyCode>30</KeyCode>
+    <Rumi>w</Rumi>
+    <Inrasara>w</Inrasara>
+    <KTT>w</KTT>
+  </Key>
+  <Key id="90">
+    <KeyCode>70</KeyCode>
+    <Rumi>u</Rumi>
+    <Inrasara>w</Inrasara>
+    <KTT>w</KTT>
+  </Key>
+  <Key id="91">
+    <KeyCode>52</KeyCode>
+    <Rumi>w</Rumi>
+    <Inrasara>w</Inrasara>
+    <KTT>w</KTT>
+  </Key>
+  <Key id="92">
+    <KeyCode>31</KeyCode>
+    <Rumi>x</Rumi>
+    <Inrasara>x</Inrasara>
+    <KTT>x</KTT>
+  </Key>
+  <Key id="93">
+    <KeyCode>53</KeyCode>
+    <Rumi>x</Rumi>
+    <Inrasara>x</Inrasara>
+    <KTT>x</KTT>
+  </Key>
+  <Key id="94">
+    <KeyCode>27</KeyCode>
+    <Rumi>y</Rumi>
+    <Inrasara>y</Inrasara>
+    <KTT>y</KTT>
+  </Key>
+  <Key id="95">
+    <KeyCode>49</KeyCode>
+    <Rumi>y</Rumi>
+    <Inrasara>y</Inrasara>
+    <KTT>y</KTT>
+  </Key>
+</Keys>

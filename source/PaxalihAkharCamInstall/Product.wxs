@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+
+  <Product Id="3E786878-358D-43AD-82D1-1435ADF9F6EA"
+           Name="Xalih Akhar Cam"
+           Language="1033"
+           Version="1.0.0.0"
+           Manufacturer="Kawom Tangin Pan Tangin"
+           UpgradeCode="B414C827-8D81-4B4A-B3B6-338C06DE3A11">
+
+    <Package InstallerVersion="301"
+             Compressed="yes"
+             InstallScope="perMachine"
+             Manufacturer="Kawom Tangin Pan Tangin"
+             Description="Installs Xalih Akhar Cam Software"
+             Keywords="xalih,Akhar,Cam"
+             Comments="(c) 2013 Kawom Tangin Pan Tangin" />
+
+    <MediaTemplate EmbedCab="yes" />
+
+    <!--Directory structure-->
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="MyProgramDir" Name="Xalih Akhar Cam">
+          <Directory Id="LangUS" Name="en-US" />
+          <Directory Id="LangMY" Name="ms-MY" />
+          <Directory Id="LangVN" Name="vi-VN" />
+        </Directory>
+        <Directory Id="ProgramMenuFolder">
+          <Directory Id="MyShortcutsDir" Name="Xalih Akhar Cam" />
+        </Directory>
+      </Directory>
+      
+      <Directory Id="DesktopFolder" Name="Desktop">
+        <Component Id="COP_DESKTOP_SHORTCUT" Guid="{A072CB7F-5598-4d1c-85E3-C119659B1B19}">
+          <Shortcut Id="ApplicationDesktopShortcut"
+             Name="Xalih Akhar Cam"
+             Description="Xalih Akhar Cam"
+             Target="[MyProgramDir]XalihAkharCam.exe"
+             WorkingDirectory="MyProgramDir"/>
+          <RemoveFolder Id="DesktopFolder" On="uninstall"/>
+          <RegistryValue
+            Root="HKCU"
+            Key="Software\Microsoft\XalihAkharCam"
+            Name="installed"
+            Type="integer"
+            Value="1"
+            KeyPath="yes"/>
+        </Component>
+      </Directory>
+      <Directory Id="FontsFolder" />
+    </Directory>
+
+    <!--Components-->
+    <DirectoryRef Id="MyProgramDir">
+      <Component Id="CMP_Source" Guid="E8A58B7B-F031-4548-9BDD-7A6796C8460D">
+        <File Id="FILE_EXE_PaxalihAkharCam" Source="XalihAkharCam.exe" KeyPath="yes" />
+        <File Id="FILE_EXE_AutoUpdate" Source="AutoUpdate.exe" KeyPath="no" />
+        <File Id="FILE_DLL_Model" Source="Cam.Model.dll" KeyPath="no" />
+        <File Id="FILE_DLL_Service" Source="Cam.Service.dll" KeyPath="no" />
+        <File Id="FILE_DLL_Forms" Source="Cam.Windows.Forms.dll" KeyPath="no" />
+        <File Id="FILE_DLL_Zip" Source="Ionic.Zip.dll" KeyPath="no" />
+        <File Id="FILE_PDF_UseGuide" Source="UseGuide.pdf" KeyPath="no" />
+      </Component>
+    </DirectoryRef>
+    
+    <DirectoryRef Id="LangUS">
+      <Component Id="CMP_Lang_US" Guid="DA914370-0F79-4E2E-838B-F292B49C16DF">
+        <File Id="FILE_DLL_Resources_US" Source="en-US\Cam.Windows.Forms.resources.dll" KeyPath="yes" />
+      </Component>
+    </DirectoryRef>
+    
+    <DirectoryRef Id="LangMY">
+      <Component Id="CMP_Lang_MY" Guid="39E2BAA3-03C0-4AAF-A835-B67B486E0558">
+        <File Id="FILE_DLL_Resources_MY" Source="ms-MY\Cam.Windows.Forms.resources.dll" KeyPath="yes" />
+      </Component>
+    </DirectoryRef>
+    
+    <DirectoryRef Id="LangVN">
+      <Component Id="CMP_Lang_VN" Guid="52BB4DE5-D28E-45CF-AAE1-BD0F9E3FA4B9">
+        <File Id="FILE_DLL_Resources_VN" Source="vi-VN\Cam.Windows.Forms.resources.dll" KeyPath="yes" />
+      </Component>
+    </DirectoryRef>
+
+    <DirectoryRef Id="FontsFolder">
+      <Component Id="CMP_MyFont" Guid="CFF27814-D7A8-4054-B3B1-F5DB44CD5AB9">
+        <File Id="FILE_FONT_WA_YAPATA" Source="Fonts\Akhar Thrah 1.TTF" TrueType="yes" KeyPath="yes" />
+        <File Id="FILE_FONT_KTT" Source="Fonts\Blue 1.1.TTF" TrueType="yes" KeyPath="no" />
+        <File Id="FILE_FONT_EFEO" Source="Fonts\CAMTA-EFEO.TTF" TrueType="yes" KeyPath="no" />
+        <File Id="FILE_FONT_GP" Source="Fonts\Champa 2.ttf" TrueType="yes" KeyPath="no" />
+        <File Id="FILE_FONT_KUR" Source="Fonts\CJMKh001.ttf" TrueType="yes" KeyPath="no" />
+        <File Id="FILE_FONT_VN" Source="Fonts\Cham_Roman.ttf" TrueType="yes" KeyPath="no" />
+      </Component>
+    </DirectoryRef>
+    
+    <!--Start Menu Shortcuts-->
+    <DirectoryRef Id="MyShortcutsDir">
+      <Component Id="CMP_ProgramShortcut"
+                 Guid="33741C82-30BF-41AF-8246-44A5DCFCF953">
+
+        <Shortcut Id="DocumentationStartMenuShortcut"
+                  Name="Xalih Akhar Cam"
+                  Description="Xalih Akhar Cam Software"
+                  Target="[MyProgramDir]XalihAkharCam.exe" />
+        
+        <Shortcut Id="UninstallShortcut"
+                  Name="Uninstall"
+                  Description="Uninstalls Xalih Akhar Cam Software"
+                  Target="[System64Folder]msiexec.exe"
+                  Arguments="/x [ProductCode]" />
+
+        <RemoveFolder Id="RemoveMyShortcutsDir"
+                      On="uninstall" />
+
+        <RegistryValue Root="HKCU"
+                       Key="Software\Microsoft\XalihAkharCam"
+                       Name="installed"
+                       Type="integer"
+                       Value="1"
+                       KeyPath="yes" />
+      </Component>
+    </DirectoryRef>
+
+    <!--Features-->
+    <Feature Id="ProductFeature" Title="Main Product" Level="1">
+      <ComponentRef Id="CMP_Source" />
+      <ComponentRef Id="CMP_Lang_US" />
+      <ComponentRef Id="CMP_Lang_MY" />
+      <ComponentRef Id="CMP_Lang_VN" />
+      <ComponentRef Id="CMP_MyFont" />
+      <ComponentRef Id="CMP_ProgramShortcut" />
+      <ComponentRef Id="COP_DESKTOP_SHORTCUT" />
+    </Feature>
+  </Product>
+</Wix>

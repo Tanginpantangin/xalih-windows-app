@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Keys>
+  <Key id="1">
+    <Rumi>0</Rumi>
+    <Inrasara>0</Inrasara>
+    <KTT>0</KTT>
+  </Key>
+  <Key id="2">
+    <Rumi>1</Rumi>
+    <Inrasara>1</Inrasara>
+    <KTT>1</KTT>
+  </Key>
+  <Key id="3">
+    <Rumi>2</Rumi>
+    <Inrasara>2</Inrasara>
+    <KTT>2</KTT>
+  </Key>
+  <Key id="4">
+    <Rumi>3</Rumi>
+    <Inrasara>3</Inrasara>
+    <KTT>3</KTT>
+  </Key>
+  <Key id="5">
+    <Rumi>4</Rumi>
+    <Inrasara>4</Inrasara>
+    <KTT>4</KTT>
+  </Key>
+  <Key id="6">
+    <Rumi>5</Rumi>
+    <Inrasara>5</Inrasara>
+    <KTT>5</KTT>
+  </Key>
+  <Key id="7">
+    <Rumi>6</Rumi>
+    <Inrasara>6</Inrasara>
+    <KTT>6</KTT>
+  </Key>
+  <Key id="8">
+    <Rumi>7</Rumi>
+    <Inrasara>7</Inrasara>
+    <KTT>7</KTT>
+  </Key>
+  <Key id="9">
+    <Rumi>8</Rumi>
+    <Inrasara>8</Inrasara>
+    <KTT>8</KTT>
+  </Key>
+  <Key id="10">
+    <Rumi>9</Rumi>
+    <Inrasara>9</Inrasara>
+    <KTT>9</KTT>
+  </Key>
+  <Key id="11">
+    <Rumi>-</Rumi>
+    <Inrasara>-</Inrasara>
+    <KTT>-</KTT>
+  </Key>
+  <Key id="12">
+    <Rumi>!</Rumi>
+    <Inrasara>!</Inrasara>
+    <KTT>!</KTT>
+  </Key>
+  <Key id="13">
+    <Rumi>,</Rumi>
+    <Inrasara>,</Inrasara>
+    <KTT>,</KTT>
+  </Key>
+  <Key id="14">
+    <Rumi>.</Rumi>
+    <Inrasara>.</Inrasara>
+    <KTT>.</KTT>
+  </Key>
+  <Key id="15">
+    <Rumi>:</Rumi>
+    <Inrasara>:</Inrasara>
+    <KTT>:</KTT>
+  </Key>
+  <Key id="16">
+    <Rumi>;</Rumi>
+    <Inrasara>;</Inrasara>
+    <KTT>;</KTT>
+  </Key>
+  <Key id="17">
+    <Rumi>?</Rumi>
+    <Inrasara>?</Inrasara>
+    <KTT>?</KTT>
+  </Key>
+  <Key id="18">
+    <Rumi>@</Rumi>
+    <Inrasara>@</Inrasara>
+    <KTT>@</KTT>
+  </Key>
+  <Key id="19">
+    <Rumi>+</Rumi>
+    <Inrasara>+</Inrasara>
+    <KTT>+</KTT>
+  </Key>
+  <Key id="20">
+    <Rumi>a</Rumi>
+    <Inrasara>a</Inrasara>
+    <KTT>a</KTT>
+  </Key>
+  <Key id="21">
+    <Rumi>â</Rumi>
+    <Inrasara>b</Inrasara>
+    <KTT>b</KTT>
+  </Key>
+  <Key id="22">
+    <Rumi>b</Rumi>
+    <Inrasara>c</Inrasara>
+    <KTT>c</KTT>
+  </Key>
+  <Key id="23">
+    <Rumi>c</Rumi>
+    <Inrasara>d</Inrasara>
+    <KTT>d</KTT>
+  </Key>
+  <Key id="24">
+    <Rumi>d</Rumi>
+    <Inrasara>đ</Inrasara>
+    <KTT>đ</KTT>
+  </Key>
+  <Key id="25">
+    <Rumi>e</Rumi>
+    <Inrasara>e</Inrasara>
+    <KTT>e</KTT>
+  </Key>
+  <Key id="26">
+    <Rumi>é</Rumi>
+    <Inrasara>g</Inrasara>
+    <KTT>ê</KTT>
+  </Key>
+  <Key id="27">
+    <Rumi>g</Rumi>
+    <Inrasara>h</Inrasara>
+    <KTT>g</KTT>
+  </Key>
+  <Key id="28">
+    <Rumi>h</Rumi>
+    <Inrasara>i</Inrasara>
+    <KTT>h</KTT>
+  </Key>
+  <Key id="29">
+    <Rumi>i</Rumi>
+    <Inrasara>j</Inrasara>
+    <KTT>i</KTT>
+  </Key>
+  <Key id="30">
+    <Rumi>j</Rumi>
+    <Inrasara>k</Inrasara>
+    <KTT>j</KTT>
+  </Key>
+  <Key id="31">
+    <Rumi>k</Rumi>
+    <Inrasara>l</Inrasara>
+    <KTT>k</KTT>
+  </Key>
+  <Key id="32">
+    <Rumi>l</Rumi>
+    <Inrasara>m</Inrasara>
+    <KTT>l</KTT>
+  </Key>
+  <Key id="33">
+    <Rumi>m</Rumi>
+    <Inrasara>n</Inrasara>
+    <KTT>m</KTT>
+  </Key>
+  <Key id="34">
+    <Rumi>n</Rumi>
+    <Inrasara>o</Inrasara>
+    <KTT>n</KTT>
+  </Key>
+  <Key id="35">
+    <Rumi>o</Rumi>
+    <Inrasara>ơ</Inrasara>
+    <KTT>o</KTT>
+  </Key>
+  <Key id="36">
+    <Rumi>p</Rumi>
+    <Inrasara>p</Inrasara>
+    <KTT>ô</KTT>
+  </Key>
+  <Key id="37">
+    <Rumi>r</Rumi>
+    <Inrasara>r</Inrasara>
+    <KTT>ơ</KTT>
+  </Key>
+  <Key id="38">
+    <Rumi>s</Rumi>
+    <Inrasara>s</Inrasara>
+    <KTT>p</KTT>
+  </Key>
+  <Key id="39">
+    <Rumi>t</Rumi>
+    <Inrasara>t</Inrasara>
+    <KTT>r</KTT>
+  </Key>
+  <Key id="40">
+    <Rumi>u</Rumi>
+    <Inrasara>u</Inrasara>
+    <KTT>s</KTT>
+  </Key>
+  <Key id="41">
+    <Rumi>w</Rumi>
+    <Inrasara>ư</Inrasara>
+    <KTT>t</KTT>
+  </Key>
+  <Key id="42">
+    <Rumi>x</Rumi>
+    <Inrasara>w</Inrasara>
+    <KTT>u</KTT>
+  </Key>
+  <Key id="43">
+    <Rumi>y</Rumi>
+    <Inrasara>x</Inrasara>
+    <KTT>ư</KTT>
+  </Key>
+  <Key id="44">
+    <Rumi>
+    </Rumi>
+    <Inrasara>y</Inrasara>
+    <KTT>x</KTT>
+  </Key>
+  <Key id="45">
+    <Rumi>
+    </Rumi>
+    <Inrasara>
+    </Inrasara>
+    <KTT>w</KTT>
+  </Key>
+  <Key id="46">
+    <Rumi>
+    </Rumi>
+    <Inrasara>
+    </Inrasara>
+    <KTT>y</KTT>
+  </Key>
+</Keys>

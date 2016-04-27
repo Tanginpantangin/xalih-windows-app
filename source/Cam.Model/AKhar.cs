@@ -1,0 +1,118 @@
+﻿using System.ComponentModel;
+namespace Cam.Model
+{
+
+    /// <summary>
+    /// Char type
+    /// </summary>
+    public enum AKhar
+    {
+        Kak = 0,
+        Khak = 1,
+        Gak = 2,
+        Ghak = 3,
+        Ngâk = 4,
+        Ngak = 5,
+
+        Cak = 6,
+        Chak = 7,
+        Jak = 8,
+        Jhak = 9,
+        Nyâk = 10,
+        Nyak = 11,
+        Njak = 12,
+
+        Tak = 13,
+        Thak = 14,
+        Dak = 15,
+        Dhak = 16,
+        Nâk = 17,
+        Nak = 18,
+        Ndak = 19,
+
+        Pak = 20,
+        Phak = 21,
+        Bak = 22,
+        Bhak = 23,
+        Mâk = 24,
+        Mak = 25,
+        Mbak = 26,
+
+        Yak = 27,
+        Rak = 28,
+        Lak = 29,
+        Wak = 30,
+        Xak = 31,
+        Hak = 32,
+
+        PakPraong = 33,
+        SakPraong = 34,
+
+        Ak = 35,
+        Ik = 36,
+        Uk = 37,
+        É = 38,
+        Ai = 39,
+        Ok = 40,
+
+        KakMatai = 41,
+        GakMatai = 42,
+        NgâkMatai = 43,
+        CakMatai = 44,
+        TakMatai = 45,
+        NâkMatai = 46,
+        PakMatai = 47,
+        TutTakaiMâk = 48,
+        YakMatai = 49,
+        RakMatai = 50,
+        LakMatai = 51,
+        WakMatai = 52,
+        XakMatai = 53,
+        PaohDaNih = 54,
+
+        Balau = 55,
+        BalauTapong = 56,
+        DarSa = 57,
+        DarDua = 58,
+        TakaiKik = 59,
+        TakaiKikTutTakaiMâkDalem = 60,
+        TakaiKikTutTakaiMâkLingiw = 61,
+        TakaiKikTutTakaiYak = 62,
+        TakaiThek = 63,
+        TakaiThekTutTakaiMâk = 64,
+        TakaiThekPaohNgâk = 65,
+        TakaiKuk = 66,
+        TakaiKâk = 67,
+        TakaiKrak = 68,
+        TakaiKiak = 69,
+        TakaiKuak = 70,
+        TakaiKlak = 71,
+        TakaiKlakTakaiKuak = 72,
+        TakaiKlakTakaiKuk = 73,
+        TraohAw = 74,
+        TraohAwPaohNgâk = 75,
+        TraohAwTutTakaiMâk = 76,
+        PaohNgâk = 77,
+
+        Sa = 78,
+        Dua = 79,
+        Kluw = 80,
+        Ppak = 81,
+        Limâ = 82,
+        Nem = 83,
+        Tajuh = 84,
+        Dalipan = 85,
+        Salipan = 86,
+        Saoh = 87,
+
+        KanaingSa = 88,
+        KanaingDua = 89,
+        KanaingKaokMâTi = 90,
+        Colon = 91,
+        ExclamationMark = 92,
+        QuestionMark = 93,
+        Minus = 94,
+        Patuk = 95,
+        Square = 96
+    }
+}

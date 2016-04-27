@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Keys>
+  <Key id="1">
+    <KeyCode>0</KeyCode>
+    <Rumi>ka</Rumi>
+    <InraSara>ka</InraSara>
+    <KawomTuekTuah>ka</KawomTuekTuah>
+  </Key>
+  <Key id="2">
+    <KeyCode>1</KeyCode>
+    <Rumi>kha</Rumi>
+    <InraSara>kha</InraSara>
+    <KawomTuekTuah>kha</KawomTuekTuah>
+  </Key>
+  <Key id="3">
+    <KeyCode>2</KeyCode>
+    <Rumi>ga</Rumi>
+    <InraSara>ga</InraSara>
+    <KawomTuekTuah>ga</KawomTuekTuah>
+  </Key>
+  <Key id="4">
+    <KeyCode>3</KeyCode>
+    <Rumi>gha</Rumi>
+    <InraSara>gha</InraSara>
+    <KawomTuekTuah>gha</KawomTuekTuah>
+  </Key>
+  <Key id="5">
+    <KeyCode>4</KeyCode>
+    <Rumi>ngâ</Rumi>
+    <InraSara>ngư</InraSara>
+    <KawomTuekTuah>ngư</KawomTuekTuah>
+  </Key>
+  <Key id="6">
+    <KeyCode>5</KeyCode>
+    <Rumi>nga</Rumi>
+    <InraSara>nga</InraSara>
+    <KawomTuekTuah>nga</KawomTuekTuah>
+  </Key>
+  <Key id="7">
+    <KeyCode>6</KeyCode>
+    <Rumi>ca</Rumi>
+    <InraSara>ca</InraSara>
+    <KawomTuekTuah>ca</KawomTuekTuah>
+  </Key>
+  <Key id="8">
+    <KeyCode>7</KeyCode>
+    <Rumi>cha</Rumi>
+    <InraSara>cha</InraSara>
+    <KawomTuekTuah>cha</KawomTuekTuah>
+  </Key>
+  <Key id="9">
+    <KeyCode>8</KeyCode>
+    <Rumi>ja</Rumi>
+    <InraSara>ja</InraSara>
+    <KawomTuekTuah>ja</KawomTuekTuah>
+  </Key>
+  <Key id="10">
+    <KeyCode>9</KeyCode>
+    <Rumi>jha</Rumi>
+    <InraSara>jha</InraSara>
+    <KawomTuekTuah>jha</KawomTuekTuah>
+  </Key>
+  <Key id="11">
+    <KeyCode>10</KeyCode>
+    <Rumi>nyâ</Rumi>
+    <InraSara>như</InraSara>
+    <KawomTuekTuah>như</KawomTuekTuah>
+  </Key>
+  <Key id="12">
+    <KeyCode>11</KeyCode>
+    <Rumi>nya</Rumi>
+    <InraSara>nha</InraSara>
+    <KawomTuekTuah>nha</KawomTuekTuah>
+  </Key>
+  <Key id="13">
+    <KeyCode>12</KeyCode>
+    <Rumi>nja</Rumi>
+    <InraSara>nhja</InraSara>
+    <KawomTuekTuah>nhja</KawomTuekTuah>
+  </Key>
+  <Key id="14">
+    <KeyCode>13</KeyCode>
+    <Rumi>ta</Rumi>
+    <InraSara>ta</InraSara>
+    <KawomTuekTuah>ta</KawomTuekTuah>
+  </Key>
+  <Key id="15">
+    <KeyCode>14</KeyCode>
+    <Rumi>tha</Rumi>
+    <InraSara>tha</InraSara>
+    <KawomTuekTuah>tha</KawomTuekTuah>
+  </Key>
+  <Key id="16">
+    <KeyCode>15</KeyCode>
+    <Rumi>da</Rumi>
+    <InraSara>da</InraSara>
+    <KawomTuekTuah>da</KawomTuekTuah>
+  </Key>
+  <Key id="17">
+    <KeyCode>16</KeyCode>
+    <Rumi>dha</Rumi>
+    <InraSara>dha</InraSara>
+    <KawomTuekTuah>dha</KawomTuekTuah>
+  </Key>
+  <Key id="18">
+    <KeyCode>17</KeyCode>
+    <Rumi>nâ</Rumi>
+    <InraSara>nư</InraSara>
+    <KawomTuekTuah>nư</KawomTuekTuah>
+  </Key>
+  <Key id="19">
+    <KeyCode>18</KeyCode>
+    <Rumi>na</Rumi>
+    <InraSara>na</InraSara>
+    <KawomTuekTuah>na</KawomTuekTuah>
+  </Key>
+  <Key id="20">
+    <KeyCode>19</KeyCode>
+    <Rumi>nda</Rumi>
+    <InraSara>đa</InraSara>
+    <KawomTuekTuah>đa</KawomTuekTuah>
+  </Key>
+  <Key id="21">
+    <KeyCode>20</KeyCode>
+    <Rumi>pa</Rumi>
+    <InraSara>pa</InraSara>
+    <KawomTuekTuah>pa</KawomTuekTuah>
+  </Key>
+  <Key id="22">
+    <KeyCode>21</KeyCode>
+    <Rumi>pha</Rumi>
+    <InraSara>pha</InraSara>
+    <KawomTuekTuah>pha</KawomTuekTuah>
+  </Key>
+  <Key id="23">
+    <KeyCode>22</KeyCode>
+    <Rumi>ba</Rumi>
+    <InraSara>ba</InraSara>
+    <KawomTuekTuah>ba</KawomTuekTuah>
+  </Key>
+  <Key id="24">
+    <KeyCode>23</KeyCode>
+    <Rumi>bha</Rumi>
+    <InraSara>bha</InraSara>
+    <KawomTuekTuah>bha</KawomTuekTuah>
+  </Key>
+  <Key id="25">
+    <KeyCode>24</KeyCode>
+    <Rumi>mâ</Rumi>
+    <InraSara>mư</InraSara>
+    <KawomTuekTuah>mư</KawomTuekTuah>
+  </Key>
+  <Key id="26">
+    <KeyCode>25</KeyCode>
+    <Rumi>ma</Rumi>
+    <InraSara>ma</InraSara>
+    <KawomTuekTuah>ma</KawomTuekTuah>
+  </Key>
+  <Key id="27">
+    <KeyCode>26</KeyCode>
+    <Rumi>mba</Rumi>
+    <InraSara>bba</InraSara>
+    <KawomTuekTuah>bba</KawomTuekTuah>
+  </Key>
+  <Key id="28">
+    <KeyCode>27</KeyCode>
+    <Rumi>ya</Rumi>
+    <InraSara>ya</InraSara>
+    <KawomTuekTuah>ya</KawomTuekTuah>
+  </Key>
+  <Key id="29">
+    <KeyCode>28</KeyCode>
+    <Rumi>ra</Rumi>
+    <InraSara>ra</InraSara>
+    <KawomTuekTuah>ra</KawomTuekTuah>
+  </Key>
+  <Key id="30">
+    <KeyCode>29</KeyCode>
+    <Rumi>la</Rumi>
+    <InraSara>la</InraSara>
+    <KawomTuekTuah>la</KawomTuekTuah>
+  </Key>
+  <Key id="31">
+    <KeyCode>30</KeyCode>
+    <Rumi>wa</Rumi>
+    <InraSara>wa</InraSara>
+    <KawomTuekTuah>wa</KawomTuekTuah>
+  </Key>
+  <Key id="32">
+    <KeyCode>31</KeyCode>
+    <Rumi>xa</Rumi>
+    <InraSara>xa</InraSara>
+    <KawomTuekTuah>xa</KawomTuekTuah>
+  </Key>
+  <Key id="33">
+    <KeyCode>32</KeyCode>
+    <Rumi>ha</Rumi>
+    <InraSara>ha</InraSara>
+    <KawomTuekTuah>ha</KawomTuekTuah>
+  </Key>
+  <Key id="34">
+    <KeyCode>33</KeyCode>
+    <Rumi>ppa</Rumi>
+    <InraSara>ppa</InraSara>
+    <KawomTuekTuah>ppa</KawomTuekTuah>
+  </Key>
+  <Key id="35">
+    <KeyCode>34</KeyCode>
+    <Rumi>sa</Rumi>
+    <InraSara>sa</InraSara>
+    <KawomTuekTuah>sa</KawomTuekTuah>
+  </Key>
+  <Key id="36">
+    <KeyCode>35</KeyCode>
+    <Rumi>aa</Rumi>
+    <InraSara>aa</InraSara>
+    <KawomTuekTuah>aa</KawomTuekTuah>
+  </Key>
+  <Key id="37">
+    <KeyCode>36</KeyCode>
+    <Rumi>i</Rumi>
+    <InraSara>i</InraSara>
+    <KawomTuekTuah>i</KawomTuekTuah>
+  </Key>
+  <Key id="38">
+    <KeyCode>37</KeyCode>
+    <Rumi>u</Rumi>
+    <InraSara>u</InraSara>
+    <KawomTuekTuah>u</KawomTuekTuah>
+  </Key>
+  <Key id="39">
+    <KeyCode>38</KeyCode>
+    <Rumi>é</Rumi>
+    <InraSara>e</InraSara>
+    <KawomTuekTuah>ê</KawomTuekTuah>
+  </Key>
+  <Key id="40">
+    <KeyCode>39</KeyCode>
+    <Rumi>ai</Rumi>
+    <InraSara>ai</InraSara>
+    <KawomTuekTuah>ai</KawomTuekTuah>
+  </Key>
+  <Key id="41">
+    <KeyCode>40</KeyCode>
+    <Rumi>o</Rumi>
+    <InraSara>o</InraSara>
+    <KawomTuekTuah>ô</KawomTuekTuah>
+  </Key>
+  <Key id="42">
+    <KeyCode>41</KeyCode>
+    <Rumi>k</Rumi>
+    <InraSara>k</InraSara>
+    <KawomTuekTuah>k</KawomTuekTuah>
+  </Key>
+  <Key id="43">
+    <KeyCode>42</KeyCode>
+    <Rumi>k</Rumi>
+    <InraSara>k</InraSara>
+    <KawomTuekTuah>g</KawomTuekTuah>
+  </Key>
+  <Key id="44">
+    <KeyCode>43</KeyCode>
+    <Rumi>ng</Rumi>
+    <InraSara>ng</InraSara>
+    <KawomTuekTuah>ng</KawomTuekTuah>
+  </Key>
+  <Key id="45">
+    <KeyCode>44</KeyCode>
+    <Rumi>c</Rumi>
+    <InraSara>c</InraSara>
+    <KawomTuekTuah>c</KawomTuekTuah>
+  </Key>
+  <Key id="46">
+    <KeyCode>45</KeyCode>
+    <Rumi>t</Rumi>
+    <InraSara>t</InraSara>
+    <KawomTuekTuah>t</KawomTuekTuah>
+  </Key>
+  <Key id="47">
+    <KeyCode>46</KeyCode>
+    <Rumi>n</Rumi>
+    <InraSara>n</InraSara>
+    <KawomTuekTuah>n</KawomTuekTuah>
+  </Key>
+  <Key id="48">
+    <KeyCode>47</KeyCode>
+    <Rumi>p</Rumi>
+    <InraSara>p</InraSara>
+    <KawomTuekTuah>p</KawomTuekTuah>
+  </Key>
+  <Key id="49">
+    <KeyCode>48</KeyCode>
+    <Rumi>m</Rumi>
+    <InraSara>m</InraSara>
+    <KawomTuekTuah>m</KawomTuekTuah>
+  </Key>
+  <Key id="50">
+    <KeyCode>49</KeyCode>
+    <Rumi>y</Rumi>
+    <InraSara>y</InraSara>
+    <KawomTuekTuah>y</KawomTuekTuah>
+  </Key>
+  <Key id="51">
+    <KeyCode>50</KeyCode>
+    <Rumi>r</Rumi>
+    <InraSara>r</InraSara>
+    <KawomTuekTuah>r</KawomTuekTuah>
+  </Key>
+  <Key id="52">
+    <KeyCode>51</KeyCode>
+    <Rumi>l</Rumi>
+    <InraSara>l</InraSara>
+    <KawomTuekTuah>l</KawomTuekTuah>
+  </Key>
+  <Key id="53">
+    <KeyCode>52</KeyCode>
+    <Rumi>w</Rumi>
+    <InraSara>w</InraSara>
+    <KawomTuekTuah>w</KawomTuekTuah>
+  </Key>
+  <Key id="54">
+    <KeyCode>53</KeyCode>
+    <Rumi>x</Rumi>
+    <InraSara>x</InraSara>
+    <KawomTuekTuah>x</KawomTuekTuah>
+  </Key>
+  <Key id="55">
+    <KeyCode>54</KeyCode>
+    <Rumi>h</Rumi>
+    <InraSara>h</InraSara>
+    <KawomTuekTuah>h</KawomTuekTuah>
+  </Key>
+  <Key id="56">
+    <KeyCode>55</KeyCode>
+    <Rumi>
+    </Rumi>
+    <InraSara>
+    </InraSara>
+    <KawomTuekTuah>
+    </KawomTuekTuah>
+  </Key>
+  <Key id="57">
+    <KeyCode>56</KeyCode>
+    <Rumi>e</Rumi>
+    <InraSara>ơ</InraSara>
+    <KawomTuekTuah>ơơ</KawomTuekTuah>
+  </Key>
+  <Key id="58">
+    <KeyCode>57</KeyCode>
+    <Rumi>o</Rumi>
+    <InraSara>o</InraSara>
+    <KawomTuekTuah>ô</KawomTuekTuah>
+  </Key>
+  <Key id="59">
+    <KeyCode>58</KeyCode>
+    <Rumi>ai</Rumi>
+    <InraSara>ai</InraSara>
+    <KawomTuekTuah>e</KawomTuekTuah>
+  </Key>
+  <Key id="60">
+    <KeyCode>59</KeyCode>
+    <Rumi>i</Rumi>
+    <InraSara>i</InraSara>
+    <KawomTuekTuah>i</KawomTuekTuah>
+  </Key>
+  <Key id="61">
+    <KeyCode>60</KeyCode>
+    <Rumi>i</Rumi>
+    <InraSara>i</InraSara>
+    <KawomTuekTuah>ii</KawomTuekTuah>
+  </Key>
+  <Key id="62">
+    <KeyCode>61</KeyCode>
+    <Rumi>im</Rumi>
+    <InraSara>im</InraSara>
+    <KawomTuekTuah>im</KawomTuekTuah>
+  </Key>
+  <Key id="63">
+    <KeyCode>62</KeyCode>
+    <Rumi>ei</Rumi>
+    <InraSara>ei</InraSara>
+    <KawomTuekTuah>ei</KawomTuekTuah>
+  </Key>
+  <Key id="64">
+    <KeyCode>63</KeyCode>
+    <Rumi>e</Rumi>
+    <InraSara>ơ</InraSara>
+    <KawomTuekTuah>ơ</KawomTuekTuah>
+  </Key>
+  <Key id="65">
+    <KeyCode>64</KeyCode>
+    <Rumi>em</Rumi>
+    <InraSara>ơm</InraSara>
+    <KawomTuekTuah>ơm</KawomTuekTuah>
+  </Key>
+  <Key id="66">
+    <KeyCode>65</KeyCode>
+    <Rumi>eng</Rumi>
+    <InraSara>ơng</InraSara>
+    <KawomTuekTuah>ơng</KawomTuekTuah>
+  </Key>
+  <Key id="67">
+    <KeyCode>66</KeyCode>
+    <Rumi>u</Rumi>
+    <InraSara>u</InraSara>
+    <KawomTuekTuah>u</KawomTuekTuah>
+  </Key>
+  <Key id="68">
+    <KeyCode>67</KeyCode>
+    <Rumi>â</Rumi>
+    <InraSara>ư</InraSara>
+    <KawomTuekTuah>ư</KawomTuekTuah>
+  </Key>
+  <Key id="69">
+    <KeyCode>68</KeyCode>
+    <Rumi>r</Rumi>
+    <InraSara>r</InraSara>
+    <KawomTuekTuah>r</KawomTuekTuah>
+  </Key>
+  <Key id="70">
+    <KeyCode>69</KeyCode>
+    <Rumi>i</Rumi>
+    <InraSara>i</InraSara>
+    <KawomTuekTuah>i</KawomTuekTuah>
+  </Key>
+  <Key id="71">
+    <KeyCode>70</KeyCode>
+    <Rumi>u</Rumi>
+    <InraSara>w</InraSara>
+    <KawomTuekTuah>w</KawomTuekTuah>
+  </Key>
+  <Key id="72">
+    <KeyCode>71</KeyCode>
+    <Rumi>l</Rumi>
+    <InraSara>l</InraSara>
+    <KawomTuekTuah>l</KawomTuekTuah>
+  </Key>
+  <Key id="73">
+    <KeyCode>72</KeyCode>
+    <Rumi>lu</Rumi>
+    <InraSara>lw</InraSara>
+    <KawomTuekTuah>lw</KawomTuekTuah>
+  </Key>
+  <Key id="74">
+    <KeyCode>73</KeyCode>
+    <Rumi>lu</Rumi>
+    <InraSara>lu</InraSara>
+    <KawomTuekTuah>lu</KawomTuekTuah>
+  </Key>
+  <Key id="75">
+    <KeyCode>74</KeyCode>
+    <Rumi>ao</Rumi>
+    <InraSara>au</InraSara>
+    <KawomTuekTuah>o</KawomTuekTuah>
+  </Key>
+  <Key id="76">
+    <KeyCode>75</KeyCode>
+    <Rumi>aong</Rumi>
+    <InraSara>aung</InraSara>
+    <KawomTuekTuah>ong</KawomTuekTuah>
+  </Key>
+  <Key id="77">
+    <KeyCode>76</KeyCode>
+    <Rumi>aom</Rumi>
+    <InraSara>aum</InraSara>
+    <KawomTuekTuah>om</KawomTuekTuah>
+  </Key>
+  <Key id="78">
+    <KeyCode>77</KeyCode>
+    <Rumi>ng</Rumi>
+    <InraSara>ng</InraSara>
+    <KawomTuekTuah>ng</KawomTuekTuah>
+  </Key>
+  <Key id="79">
+    <KeyCode>78</KeyCode>
+    <Rumi>1</Rumi>
+    <InraSara>1</InraSara>
+    <KawomTuekTuah>1</KawomTuekTuah>
+  </Key>
+  <Key id="80">
+    <KeyCode>79</KeyCode>
+    <Rumi>2</Rumi>
+    <InraSara>2</InraSara>
+    <KawomTuekTuah>2</KawomTuekTuah>
+  </Key>
+  <Key id="81">
+    <KeyCode>80</KeyCode>
+    <Rumi>3</Rumi>
+    <InraSara>3</InraSara>
+    <KawomTuekTuah>3</KawomTuekTuah>
+  </Key>
+  <Key id="82">
+    <KeyCode>81</KeyCode>
+    <Rumi>4</Rumi>
+    <InraSara>4</InraSara>
+    <KawomTuekTuah>4</KawomTuekTuah>
+  </Key>
+  <Key id="83">
+    <KeyCode>82</KeyCode>
+    <Rumi>5</Rumi>
+    <InraSara>5</InraSara>
+    <KawomTuekTuah>5</KawomTuekTuah>
+  </Key>
+  <Key id="84">
+    <KeyCode>83</KeyCode>
+    <Rumi>6</Rumi>
+    <InraSara>6</InraSara>
+    <KawomTuekTuah>6</KawomTuekTuah>
+  </Key>
+  <Key id="85">
+    <KeyCode>84</KeyCode>
+    <Rumi>7</Rumi>
+    <InraSara>7</InraSara>
+    <KawomTuekTuah>7</KawomTuekTuah>
+  </Key>
+  <Key id="86">
+    <KeyCode>85</KeyCode>
+    <Rumi>8</Rumi>
+    <InraSara>8</InraSara>
+    <KawomTuekTuah>8</KawomTuekTuah>
+  </Key>
+  <Key id="87">
+    <KeyCode>86</KeyCode>
+    <Rumi>9</Rumi>
+    <InraSara>9</InraSara>
+    <KawomTuekTuah>9</KawomTuekTuah>
+  </Key>
+  <Key id="88">
+    <KeyCode>87</KeyCode>
+    <Rumi>0</Rumi>
+    <InraSara>0</InraSara>
+    <KawomTuekTuah>0</KawomTuekTuah>
+  </Key>
+  <Key id="89">
+    <KeyCode>88</KeyCode>
+    <Rumi>,</Rumi>
+    <InraSara>,</InraSara>
+    <KawomTuekTuah>,</KawomTuekTuah>
+  </Key>
+  <Key id="90">
+    <KeyCode>89</KeyCode>
+    <Rumi>.</Rumi>
+    <InraSara>.</InraSara>
+    <KawomTuekTuah>.</KawomTuekTuah>
+  </Key>
+  <Key id="91">
+    <KeyCode>90</KeyCode>
+    <Rumi>@</Rumi>
+    <InraSara>@</InraSara>
+    <KawomTuekTuah>@</KawomTuekTuah>
+  </Key>
+  <Key id="92">
+    <KeyCode>91</KeyCode>
+    <Rumi>:</Rumi>
+    <InraSara>:</InraSara>
+    <KawomTuekTuah>:</KawomTuekTuah>
+  </Key>
+  <Key id="93">
+    <KeyCode>92</KeyCode>
+    <Rumi>!</Rumi>
+    <InraSara>!</InraSara>
+    <KawomTuekTuah>!</KawomTuekTuah>
+  </Key>
+  <Key id="94">
+    <KeyCode>93</KeyCode>
+    <Rumi>?</Rumi>
+    <InraSara>?</InraSara>
+    <KawomTuekTuah>?</KawomTuekTuah>
+  </Key>
+  <Key id="95">
+    <KeyCode>94</KeyCode>
+    <Rumi>-</Rumi>
+    <InraSara>-</InraSara>
+    <KawomTuekTuah>-</KawomTuekTuah>
+  </Key>
+  <Key id="96">
+    <KeyCode>95</KeyCode>
+    <Rumi>+</Rumi>
+    <InraSara>+</InraSara>
+    <KawomTuekTuah>+</KawomTuekTuah>
+  </Key>
+  <Key id="97">
+    <KeyCode>96</KeyCode>
+    <Rumi>
+    </Rumi>
+    <InraSara>
+    </InraSara>
+    <KawomTuekTuah>
+    </KawomTuekTuah>
+  </Key>
+  <Key id="98">
+    <KeyCode>5774</KeyCode>
+    <Rumi>ao</Rumi>
+    <InraSara>au</InraSara>
+    <KawomTuekTuah>oo</KawomTuekTuah>
+  </Key>
+  <Key id="99">
+    <KeyCode>5763</KeyCode>
+    <Rumi>é</Rumi>
+    <InraSara>e</InraSara>
+    <KawomTuekTuah>ê</KawomTuekTuah>
+  </Key>
+  <Key id="100">
+    <KeyCode>5756</KeyCode>
+    <Rumi>é</Rumi>
+    <InraSara>e</InraSara>
+    <KawomTuekTuah>ê</KawomTuekTuah>
+  </Key>
+  <Key id="101">
+    <KeyCode>5776</KeyCode>
+    <Rumi>aom</Rumi>
+    <InraSara>aum</InraSara>
+    <KawomTuekTuah>oom</KawomTuekTuah>
+  </Key>
+  <Key id="102">
+    <KeyCode>5775</KeyCode>
+    <Rumi>aong</Rumi>
+    <InraSara>aung</InraSara>
+    <KawomTuekTuah>oong</KawomTuekTuah>
+  </Key>
+  <Key id="103">
+    <KeyCode>5765</KeyCode>
+    <Rumi>éng</Rumi>
+    <InraSara>eng</InraSara>
+    <KawomTuekTuah>êng</KawomTuekTuah>
+  </Key>
+  <Key id="104">
+    <KeyCode>5764</KeyCode>
+    <Rumi>ém</Rumi>
+    <InraSara>em</InraSara>
+    <KawomTuekTuah>êm</KawomTuekTuah>
+  </Key>
+  <Key id="105">
+    <KeyCode>6366</KeyCode>
+    <Rumi>au</Rumi>
+    <InraSara>ơu</InraSara>
+    <KawomTuekTuah>ơu</KawomTuekTuah>
+  </Key>
+</Keys>

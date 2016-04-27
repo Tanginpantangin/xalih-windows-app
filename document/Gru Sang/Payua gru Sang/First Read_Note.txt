@@ -1,0 +1,29 @@
+Để thuận tiện hơn, gru có thể viewcode theo trình tự như hướng dẫn dưới đây:
+-------------------------------------------------------------------
+1. Hàm: DoConvert (trong Sourcode\Cam.Service\TransToCamPaxalih.cs)
+DoConvert(String data, Model.Enum sourceType, Model.Enum destitionType)
++ "data": dữ liệu (chuyển tự latin) nhập vào cần chuyển đổi
++ "sourceType": kiểu nguồn (~From: các loại chuyển tự)
++ "destitionType": kiểu đích (~To: các loại font chữ Cham)
+
+2. Hàm: ToKeyCodeByWord(trong Sourcode\Cam.Service\TransToCamPaxalih.cs)
+ToKeyCodeByWord(String word, Model.Enum sourceType): đưa về kiểu trung gian "KeyCode"
++ "word": ký tự latin nhập vào
++ "sourceType": kiểu nguồn (~From: các loại chuyển tự)
+
+3. Chi tiết đưa về kiểu trung gian "KeyCode" theo từng loại nguồn nhập (tương đương với 3 kiểu chuyển tự: EFEO, Inrasara, Kawom Tuek Tuah)
+a. ToKeycodeFromCamEFEO
+b. ToKeycodeFromInrasara
+c. ToKeycodeFromKTT
+
+4. Chuyển từ kiểu trung gian "KeyCode" qua kiểu Akhar Thrah tương ứng với từng kiểu đích (các font Akhar Thrah): 
+a. convertedWord += this._keyCodeToWaYapata[(int)akhar].ToString();
+b. convertedWord += this._keyCodeToKTT[(int)akhar].ToString();
+c. convertedWord += this._keyCodeToGilaiPraong[(int)akhar].ToString();
+d. convertedWord += this._keyCodeToCamEFEO[(int)akhar].ToString();
+e. convertedWord += this._keyCodeToUniCamKur[(int)akhar].ToString();
+
+5. Ngoài ra gru tham khảo thêm:
+a. Các file service khác: Sourcode\Cam.Service
+b. Các model: Sourcode\Cam.Model
+c. Các file Xml: Sourcode\Cam.Windows.Forms\XML

@@ -1,0 +1,809 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Keys>
+  <Key id="1">
+    <KeyCode>0</KeyCode>
+    <WaQuyet>k</WaQuyet>
+    <GilaiPraong>k</GilaiPraong>
+    <CamEFEO>k</CamEFEO>
+    <KawomTuekTuah>a</KawomTuekTuah>
+    <UniCamKur>ꨆ</UniCamKur>
+  </Key>
+  <Key id="2">
+    <KeyCode>1</KeyCode>
+    <WaQuyet>A</WaQuyet>
+    <GilaiPraong>A</GilaiPraong>
+    <CamEFEO>K</CamEFEO>
+    <KawomTuekTuah>b</KawomTuekTuah>
+    <UniCamKur>ꨇ</UniCamKur>
+  </Key>
+  <Key id="3">
+    <KeyCode>2</KeyCode>
+    <WaQuyet>g</WaQuyet>
+    <GilaiPraong>g</GilaiPraong>
+    <CamEFEO>g</CamEFEO>
+    <KawomTuekTuah>c</KawomTuekTuah>
+    <UniCamKur>ꨈ</UniCamKur>
+  </Key>
+  <Key id="4">
+    <KeyCode>3</KeyCode>
+    <WaQuyet>G</WaQuyet>
+    <GilaiPraong>G</GilaiPraong>
+    <CamEFEO>G</CamEFEO>
+    <KawomTuekTuah>d</KawomTuekTuah>
+    <UniCamKur>ꨉ</UniCamKur>
+  </Key>
+  <Key id="5">
+    <KeyCode>4</KeyCode>
+    <WaQuyet>z</WaQuyet>
+    <GilaiPraong>z</GilaiPraong>
+    <CamEFEO>f</CamEFEO>
+    <KawomTuekTuah>e</KawomTuekTuah>
+    <UniCamKur>ꨊ</UniCamKur>
+  </Key>
+  <Key id="6">
+    <KeyCode>5</KeyCode>
+    <WaQuyet>Z</WaQuyet>
+    <GilaiPraong>Z</GilaiPraong>
+    <CamEFEO>F</CamEFEO>
+    <KawomTuekTuah>f</KawomTuekTuah>
+    <UniCamKur>ꨋ</UniCamKur>
+  </Key>
+  <Key id="7">
+    <KeyCode>6</KeyCode>
+    <WaQuyet>c</WaQuyet>
+    <GilaiPraong>c</GilaiPraong>
+    <CamEFEO>c</CamEFEO>
+    <KawomTuekTuah>g</KawomTuekTuah>
+    <UniCamKur>ꨌ</UniCamKur>
+  </Key>
+  <Key id="8">
+    <KeyCode>7</KeyCode>
+    <WaQuyet>S</WaQuyet>
+    <GilaiPraong>S</GilaiPraong>
+    <CamEFEO>C</CamEFEO>
+    <KawomTuekTuah>h</KawomTuekTuah>
+    <UniCamKur>ꨍ</UniCamKur>
+  </Key>
+  <Key id="9">
+    <KeyCode>8</KeyCode>
+    <WaQuyet>j</WaQuyet>
+    <GilaiPraong>j</GilaiPraong>
+    <CamEFEO>j</CamEFEO>
+    <KawomTuekTuah>i</KawomTuekTuah>
+    <UniCamKur>ꨎ</UniCamKur>
+  </Key>
+  <Key id="10">
+    <KeyCode>9</KeyCode>
+    <WaQuyet>J</WaQuyet>
+    <GilaiPraong>J</GilaiPraong>
+    <CamEFEO>J</CamEFEO>
+    <KawomTuekTuah>j</KawomTuekTuah>
+    <UniCamKur>ꨏ</UniCamKur>
+  </Key>
+  <Key id="11">
+    <KeyCode>10</KeyCode>
+    <WaQuyet>v</WaQuyet>
+    <GilaiPraong>v</GilaiPraong>
+    <CamEFEO>z</CamEFEO>
+    <KawomTuekTuah>k</KawomTuekTuah>
+    <UniCamKur>ꨐ</UniCamKur>
+  </Key>
+  <Key id="12">
+    <KeyCode>11</KeyCode>
+    <WaQuyet>V</WaQuyet>
+    <GilaiPraong>V</GilaiPraong>
+    <CamEFEO>Z</CamEFEO>
+    <KawomTuekTuah>l</KawomTuekTuah>
+    <UniCamKur>ꨑ</UniCamKur>
+  </Key>
+  <Key id="13">
+    <KeyCode>12</KeyCode>
+    <WaQuyet>W</WaQuyet>
+    <GilaiPraong>W</GilaiPraong>
+    <CamEFEO>[</CamEFEO>
+    <KawomTuekTuah>m</KawomTuekTuah>
+    <UniCamKur>ꨒ</UniCamKur>
+  </Key>
+  <Key id="14">
+    <KeyCode>13</KeyCode>
+    <WaQuyet>t</WaQuyet>
+    <GilaiPraong>t</GilaiPraong>
+    <CamEFEO>t</CamEFEO>
+    <KawomTuekTuah>n</KawomTuekTuah>
+    <UniCamKur>ꨓ</UniCamKur>
+  </Key>
+  <Key id="15">
+    <KeyCode>14</KeyCode>
+    <WaQuyet>E</WaQuyet>
+    <GilaiPraong>E</GilaiPraong>
+    <CamEFEO>T</CamEFEO>
+    <KawomTuekTuah>o</KawomTuekTuah>
+    <UniCamKur>ꨔ</UniCamKur>
+  </Key>
+  <Key id="16">
+    <KeyCode>15</KeyCode>
+    <WaQuyet>d</WaQuyet>
+    <GilaiPraong>d</GilaiPraong>
+    <CamEFEO>d</CamEFEO>
+    <KawomTuekTuah>p</KawomTuekTuah>
+    <UniCamKur>ꨕ</UniCamKur>
+  </Key>
+  <Key id="17">
+    <KeyCode>16</KeyCode>
+    <WaQuyet>D</WaQuyet>
+    <GilaiPraong>D</GilaiPraong>
+    <CamEFEO>D</CamEFEO>
+    <KawomTuekTuah>q</KawomTuekTuah>
+    <UniCamKur>ꨖ</UniCamKur>
+  </Key>
+  <Key id="18">
+    <KeyCode>17</KeyCode>
+    <WaQuyet>n</WaQuyet>
+    <GilaiPraong>n</GilaiPraong>
+    <CamEFEO>n</CamEFEO>
+    <KawomTuekTuah>r</KawomTuekTuah>
+    <UniCamKur>ꨗ</UniCamKur>
+  </Key>
+  <Key id="19">
+    <KeyCode>18</KeyCode>
+    <WaQuyet>q</WaQuyet>
+    <GilaiPraong>q</GilaiPraong>
+    <CamEFEO>N</CamEFEO>
+    <KawomTuekTuah>s</KawomTuekTuah>
+    <UniCamKur>ꨘ</UniCamKur>
+  </Key>
+  <Key id="20">
+    <KeyCode>19</KeyCode>
+    <WaQuyet>Q</WaQuyet>
+    <GilaiPraong>Q</GilaiPraong>
+    <CamEFEO>]</CamEFEO>
+    <KawomTuekTuah>t</KawomTuekTuah>
+    <UniCamKur>ꨙ</UniCamKur>
+  </Key>
+  <Key id="21">
+    <KeyCode>20</KeyCode>
+    <WaQuyet>p</WaQuyet>
+    <GilaiPraong>p</GilaiPraong>
+    <CamEFEO>p</CamEFEO>
+    <KawomTuekTuah>u</KawomTuekTuah>
+    <UniCamKur>ꨚ</UniCamKur>
+  </Key>
+  <Key id="22">
+    <KeyCode>21</KeyCode>
+    <WaQuyet>f</WaQuyet>
+    <GilaiPraong>f</GilaiPraong>
+    <CamEFEO>P</CamEFEO>
+    <KawomTuekTuah>v</KawomTuekTuah>
+    <UniCamKur>ꨜ</UniCamKur>
+  </Key>
+  <Key id="23">
+    <KeyCode>22</KeyCode>
+    <WaQuyet>b</WaQuyet>
+    <GilaiPraong>b</GilaiPraong>
+    <CamEFEO>b</CamEFEO>
+    <KawomTuekTuah>w</KawomTuekTuah>
+    <UniCamKur>ꨝ</UniCamKur>
+  </Key>
+  <Key id="24">
+    <KeyCode>23</KeyCode>
+    <WaQuyet>B</WaQuyet>
+    <GilaiPraong>B</GilaiPraong>
+    <CamEFEO>B</CamEFEO>
+    <KawomTuekTuah>x</KawomTuekTuah>
+    <UniCamKur>ꨞ</UniCamKur>
+  </Key>
+  <Key id="25">
+    <KeyCode>24</KeyCode>
+    <WaQuyet>m</WaQuyet>
+    <GilaiPraong>m</GilaiPraong>
+    <CamEFEO>m</CamEFEO>
+    <KawomTuekTuah>y</KawomTuekTuah>
+    <UniCamKur>ꨟ</UniCamKur>
+  </Key>
+  <Key id="26">
+    <KeyCode>25</KeyCode>
+    <WaQuyet>M</WaQuyet>
+    <GilaiPraong>M</GilaiPraong>
+    <CamEFEO>M</CamEFEO>
+    <KawomTuekTuah>z</KawomTuekTuah>
+    <UniCamKur>ꨠ</UniCamKur>
+  </Key>
+  <Key id="27">
+    <KeyCode>26</KeyCode>
+    <WaQuyet>O</WaQuyet>
+    <GilaiPraong>O</GilaiPraong>
+    <CamEFEO>Ó</CamEFEO>
+    <KawomTuekTuah>[</KawomTuekTuah>
+    <UniCamKur>ꨡ</UniCamKur>
+  </Key>
+  <Key id="28">
+    <KeyCode>27</KeyCode>
+    <WaQuyet>y</WaQuyet>
+    <GilaiPraong>y</GilaiPraong>
+    <CamEFEO>y</CamEFEO>
+    <KawomTuekTuah>]</KawomTuekTuah>
+    <UniCamKur>ꨢ</UniCamKur>
+  </Key>
+  <Key id="29">
+    <KeyCode>28</KeyCode>
+    <WaQuyet>r</WaQuyet>
+    <GilaiPraong>r</GilaiPraong>
+    <CamEFEO>r</CamEFEO>
+    <KawomTuekTuah>;</KawomTuekTuah>
+    <UniCamKur>ꨣ</UniCamKur>
+  </Key>
+  <Key id="30">
+    <KeyCode>29</KeyCode>
+    <WaQuyet>l</WaQuyet>
+    <GilaiPraong>l</GilaiPraong>
+    <CamEFEO>l</CamEFEO>
+    <KawomTuekTuah>'</KawomTuekTuah>
+    <UniCamKur>ꨤ</UniCamKur>
+  </Key>
+  <Key id="31">
+    <KeyCode>30</KeyCode>
+    <WaQuyet>w</WaQuyet>
+    <GilaiPraong>w</GilaiPraong>
+    <CamEFEO>v</CamEFEO>
+    <KawomTuekTuah>,</KawomTuekTuah>
+    <UniCamKur>ꨥ</UniCamKur>
+  </Key>
+  <Key id="32">
+    <KeyCode>31</KeyCode>
+    <WaQuyet>x</WaQuyet>
+    <GilaiPraong>x</GilaiPraong>
+    <CamEFEO>s</CamEFEO>
+    <KawomTuekTuah>.</KawomTuekTuah>
+    <UniCamKur>ꨦ</UniCamKur>
+  </Key>
+  <Key id="33">
+    <KeyCode>32</KeyCode>
+    <WaQuyet>h</WaQuyet>
+    <GilaiPraong>h</GilaiPraong>
+    <CamEFEO>h</CamEFEO>
+    <KawomTuekTuah>/</KawomTuekTuah>
+    <UniCamKur>ꨨ</UniCamKur>
+  </Key>
+  <Key id="34">
+    <KeyCode>33</KeyCode>
+    <WaQuyet>F</WaQuyet>
+    <GilaiPraong>F</GilaiPraong>
+    <CamEFEO>w</CamEFEO>
+    <KawomTuekTuah>}</KawomTuekTuah>
+    <UniCamKur>ꨛ</UniCamKur>
+  </Key>
+  <Key id="35">
+    <KeyCode>34</KeyCode>
+    <WaQuyet>s</WaQuyet>
+    <GilaiPraong>s</GilaiPraong>
+    <CamEFEO>S</CamEFEO>
+    <KawomTuekTuah>{</KawomTuekTuah>
+    <UniCamKur>ꨧ</UniCamKur>
+  </Key>
+  <Key id="36">
+    <KeyCode>35</KeyCode>
+    <WaQuyet>a</WaQuyet>
+    <GilaiPraong>a</GilaiPraong>
+    <CamEFEO>a</CamEFEO>
+    <KawomTuekTuah>:</KawomTuekTuah>
+    <UniCamKur>ꨀ</UniCamKur>
+  </Key>
+  <Key id="37">
+    <KeyCode>36</KeyCode>
+    <WaQuyet>i</WaQuyet>
+    <GilaiPraong>I</GilaiPraong>
+    <CamEFEO>i</CamEFEO>
+    <KawomTuekTuah>"</KawomTuekTuah>
+    <UniCamKur>ꨁ</UniCamKur>
+  </Key>
+  <Key id="38">
+    <KeyCode>37</KeyCode>
+    <WaQuyet>u</WaQuyet>
+    <GilaiPraong>u</GilaiPraong>
+    <CamEFEO>u</CamEFEO>
+    <KawomTuekTuah>&lt;</KawomTuekTuah>
+    <UniCamKur>ꨂ</UniCamKur>
+  </Key>
+  <Key id="39">
+    <KeyCode>38</KeyCode>
+    <WaQuyet>e</WaQuyet>
+    <GilaiPraong>e</GilaiPraong>
+    <CamEFEO>e</CamEFEO>
+    <KawomTuekTuah>&gt;</KawomTuekTuah>
+    <UniCamKur>ꨃ</UniCamKur>
+  </Key>
+  <Key id="40">
+    <KeyCode>39</KeyCode>
+    <WaQuyet>I</WaQuyet>
+    <GilaiPraong>i</GilaiPraong>
+    <CamEFEO>A</CamEFEO>
+    <KawomTuekTuah>?</KawomTuekTuah>
+    <UniCamKur>ꨄ</UniCamKur>
+  </Key>
+  <Key id="41">
+    <KeyCode>40</KeyCode>
+    <WaQuyet>o</WaQuyet>
+    <GilaiPraong>o</GilaiPraong>
+    <CamEFEO>o</CamEFEO>
+    <KawomTuekTuah>Z</KawomTuekTuah>
+    <UniCamKur>ꨅ</UniCamKur>
+  </Key>
+  <Key id="42">
+    <KeyCode>41</KeyCode>
+    <WaQuyet>K</WaQuyet>
+    <GilaiPraong>K</GilaiPraong>
+    <CamEFEO>È</CamEFEO>
+    <KawomTuekTuah>A</KawomTuekTuah>
+    <UniCamKur>ꩀ</UniCamKur>
+  </Key>
+  <Key id="43">
+    <KeyCode>42</KeyCode>
+    <WaQuyet>ñ</WaQuyet>
+    <GilaiPraong>
+    </GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>C</KawomTuekTuah>
+    <UniCamKur>ꩁ</UniCamKur>
+  </Key>
+  <Key id="44">
+    <KeyCode>43</KeyCode>
+    <WaQuyet>U</WaQuyet>
+    <GilaiPraong>U</GilaiPraong>
+    <CamEFEO>(</CamEFEO>
+    <KawomTuekTuah>E</KawomTuekTuah>
+    <UniCamKur>ꩂ</UniCamKur>
+  </Key>
+  <Key id="45">
+    <KeyCode>44</KeyCode>
+    <WaQuyet>C</WaQuyet>
+    <GilaiPraong>C</GilaiPraong>
+    <CamEFEO>Ç</CamEFEO>
+    <KawomTuekTuah>G</KawomTuekTuah>
+    <UniCamKur>ꩄ</UniCamKur>
+  </Key>
+  <Key id="46">
+    <KeyCode>45</KeyCode>
+    <WaQuyet>T</WaQuyet>
+    <GilaiPraong>T</GilaiPraong>
+    <CamEFEO>™</CamEFEO>
+    <KawomTuekTuah>N</KawomTuekTuah>
+    <UniCamKur>ꩅ</UniCamKur>
+  </Key>
+  <Key id="47">
+    <KeyCode>46</KeyCode>
+    <WaQuyet>N</WaQuyet>
+    <GilaiPraong>N</GilaiPraong>
+    <CamEFEO>.</CamEFEO>
+    <KawomTuekTuah>R</KawomTuekTuah>
+    <UniCamKur>ꩆ</UniCamKur>
+  </Key>
+  <Key id="48">
+    <KeyCode>47</KeyCode>
+    <WaQuyet>P</WaQuyet>
+    <GilaiPraong>P</GilaiPraong>
+    <CamEFEO>)</CamEFEO>
+    <KawomTuekTuah>O</KawomTuekTuah>
+    <UniCamKur>ꩇ</UniCamKur>
+  </Key>
+  <Key id="49">
+    <KeyCode>48</KeyCode>
+    <WaQuyet>'</WaQuyet>
+    <GilaiPraong>'</GilaiPraong>
+    <CamEFEO>*</CamEFEO>
+    <KawomTuekTuah>!</KawomTuekTuah>
+    <UniCamKur>ꩌ</UniCamKur>
+  </Key>
+  <Key id="50">
+    <KeyCode>49</KeyCode>
+    <WaQuyet>Y</WaQuyet>
+    <GilaiPraong>Y</GilaiPraong>
+    <CamEFEO>Á</CamEFEO>
+    <KawomTuekTuah>P</KawomTuekTuah>
+    <UniCamKur>ꩈ</UniCamKur>
+  </Key>
+  <Key id="51">
+    <KeyCode>50</KeyCode>
+    <WaQuyet>R</WaQuyet>
+    <GilaiPraong>R</GilaiPraong>
+    <CamEFEO>®</CamEFEO>
+    <KawomTuekTuah>K</KawomTuekTuah>
+    <UniCamKur>ꩉ</UniCamKur>
+  </Key>
+  <Key id="52">
+    <KeyCode>51</KeyCode>
+    <WaQuyet>L</WaQuyet>
+    <GilaiPraong>L</GilaiPraong>
+    <CamEFEO>Ò</CamEFEO>
+    <KawomTuekTuah>L</KawomTuekTuah>
+    <UniCamKur>ꩊ</UniCamKur>
+  </Key>
+  <Key id="53">
+    <KeyCode>52</KeyCode>
+    <WaQuyet>w</WaQuyet>
+    <GilaiPraong>w</GilaiPraong>
+    <CamEFEO>W</CamEFEO>
+    <KawomTuekTuah>,</KawomTuekTuah>
+    <UniCamKur>ꨥ</UniCamKur>
+  </Key>
+  <Key id="54">
+    <KeyCode>53</KeyCode>
+    <WaQuyet>X</WaQuyet>
+    <GilaiPraong>X</GilaiPraong>
+    <CamEFEO>Í</CamEFEO>
+    <KawomTuekTuah>M</KawomTuekTuah>
+    <UniCamKur>ꩋ</UniCamKur>
+  </Key>
+  <Key id="55">
+    <KeyCode>54</KeyCode>
+    <WaQuyet>H</WaQuyet>
+    <GilaiPraong>H</GilaiPraong>
+    <CamEFEO>H</CamEFEO>
+    <KawomTuekTuah>`</KawomTuekTuah>
+    <UniCamKur>ꩍ</UniCamKur>
+  </Key>
+  <Key id="56">
+    <KeyCode>55</KeyCode>
+    <WaQuyet>%</WaQuyet>
+    <GilaiPraong>%</GilaiPraong>
+    <CamEFEO>_</CamEFEO>
+    <KawomTuekTuah>^</KawomTuekTuah>
+    <UniCamKur>ꨩ</UniCamKur>
+  </Key>
+  <Key id="57">
+    <KeyCode>56</KeyCode>
+    <WaQuyet>^</WaQuyet>
+    <GilaiPraong>^</GilaiPraong>
+    <CamEFEO>{</CamEFEO>
+    <KawomTuekTuah>D</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="58">
+    <KeyCode>57</KeyCode>
+    <WaQuyet>-</WaQuyet>
+    <GilaiPraong>_</GilaiPraong>
+    <CamEFEO>O</CamEFEO>
+    <KawomTuekTuah>-</KawomTuekTuah>
+    <UniCamKur>ꨯ</UniCamKur>
+  </Key>
+  <Key id="59">
+    <KeyCode>58</KeyCode>
+    <WaQuyet>=</WaQuyet>
+    <GilaiPraong>=</GilaiPraong>
+    <CamEFEO>`</CamEFEO>
+    <KawomTuekTuah>=</KawomTuekTuah>
+    <UniCamKur>ꨰ</UniCamKur>
+  </Key>
+  <Key id="60">
+    <KeyCode>59</KeyCode>
+    <WaQuyet>{</WaQuyet>
+    <GilaiPraong>{</GilaiPraong>
+    <CamEFEO>^</CamEFEO>
+    <KawomTuekTuah>%</KawomTuekTuah>
+    <UniCamKur>ꨪ</UniCamKur>
+  </Key>
+  <Key id="61">
+    <KeyCode>60</KeyCode>
+    <WaQuyet>}</WaQuyet>
+    <GilaiPraong>}</GilaiPraong>
+    <CamEFEO>ï</CamEFEO>
+    <KawomTuekTuah>Y</KawomTuekTuah>
+    <UniCamKur>ꨫ</UniCamKur>
+  </Key>
+  <Key id="62">
+    <KeyCode>61</KeyCode>
+    <WaQuyet>[</WaQuyet>
+    <GilaiPraong>[</GilaiPraong>
+    <CamEFEO>&amp;</CamEFEO>
+    <KawomTuekTuah>T</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="63">
+    <KeyCode>62</KeyCode>
+    <WaQuyet>]</WaQuyet>
+    <GilaiPraong>]</GilaiPraong>
+    <CamEFEO>E</CamEFEO>
+    <KawomTuekTuah>S</KawomTuekTuah>
+    <UniCamKur>ꨬ</UniCamKur>
+  </Key>
+  <Key id="64">
+    <KeyCode>63</KeyCode>
+    <WaQuyet>@</WaQuyet>
+    <GilaiPraong>@</GilaiPraong>
+    <CamEFEO>+</CamEFEO>
+    <KawomTuekTuah>@</KawomTuekTuah>
+    <UniCamKur>ꨮ</UniCamKur>
+  </Key>
+  <Key id="65">
+    <KeyCode>64</KeyCode>
+    <WaQuyet>#</WaQuyet>
+    <GilaiPraong>#</GilaiPraong>
+    <CamEFEO>}</CamEFEO>
+    <KawomTuekTuah>J</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="66">
+    <KeyCode>65</KeyCode>
+    <WaQuyet>$</WaQuyet>
+    <GilaiPraong>$</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>I</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="67">
+    <KeyCode>66</KeyCode>
+    <WaQuyet>~</WaQuyet>
+    <GilaiPraong>~</GilaiPraong>
+    <CamEFEO>U</CamEFEO>
+    <KawomTuekTuah>&amp;</KawomTuekTuah>
+    <UniCamKur>ꨭ</UniCamKur>
+  </Key>
+  <Key id="68">
+    <KeyCode>67</KeyCode>
+    <WaQuyet>;</WaQuyet>
+    <GilaiPraong>;</GilaiPraong>
+    <CamEFEO>&gt;</CamEFEO>
+    <KawomTuekTuah>*</KawomTuekTuah>
+    <UniCamKur>ꨲ</UniCamKur>
+  </Key>
+  <Key id="69">
+    <KeyCode>68</KeyCode>
+    <WaQuyet>\</WaQuyet>
+    <GilaiPraong>\</GilaiPraong>
+    <CamEFEO>R</CamEFEO>
+    <KawomTuekTuah>\</KawomTuekTuah>
+    <UniCamKur>ꨴ</UniCamKur>
+  </Key>
+  <Key id="70">
+    <KeyCode>69</KeyCode>
+    <WaQuyet>`</WaQuyet>
+    <GilaiPraong>`</GilaiPraong>
+    <CamEFEO>Y</CamEFEO>
+    <KawomTuekTuah>~</KawomTuekTuah>
+    <UniCamKur>ꨳ</UniCamKur>
+  </Key>
+  <Key id="71">
+    <KeyCode>70</KeyCode>
+    <WaQuyet>&amp;</WaQuyet>
+    <GilaiPraong>&amp;</GilaiPraong>
+    <CamEFEO>V</CamEFEO>
+    <KawomTuekTuah>(</KawomTuekTuah>
+    <UniCamKur>ꨶ</UniCamKur>
+  </Key>
+  <Key id="72">
+    <KeyCode>71</KeyCode>
+    <WaQuyet>*</WaQuyet>
+    <GilaiPraong>*</GilaiPraong>
+    <CamEFEO>L</CamEFEO>
+    <KawomTuekTuah>)</KawomTuekTuah>
+    <UniCamKur>ꨵ</UniCamKur>
+  </Key>
+  <Key id="73">
+    <KeyCode>72</KeyCode>
+    <WaQuyet>)</WaQuyet>
+    <GilaiPraong>(</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>+</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="74">
+    <KeyCode>73</KeyCode>
+    <WaQuyet>(</WaQuyet>
+    <GilaiPraong>)</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>_</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="75">
+    <KeyCode>74</KeyCode>
+    <WaQuyet>&lt;</WaQuyet>
+    <GilaiPraong>&lt;</GilaiPraong>
+    <CamEFEO>@</CamEFEO>
+    <KawomTuekTuah>$</KawomTuekTuah>
+    <UniCamKur>ꨱ</UniCamKur>
+  </Key>
+  <Key id="76">
+    <KeyCode>75</KeyCode>
+    <WaQuyet>"</WaQuyet>
+    <GilaiPraong>"</GilaiPraong>
+    <CamEFEO>#</CamEFEO>
+    <KawomTuekTuah>F</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="77">
+    <KeyCode>76</KeyCode>
+    <WaQuyet>&gt;</WaQuyet>
+    <GilaiPraong>&gt;</GilaiPraong>
+    <CamEFEO>€</CamEFEO>
+    <KawomTuekTuah>W</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="78">
+    <KeyCode>77</KeyCode>
+    <WaQuyet>/</WaQuyet>
+    <GilaiPraong>/</GilaiPraong>
+    <CamEFEO>!</CamEFEO>
+    <KawomTuekTuah>#</KawomTuekTuah>
+    <UniCamKur>ꩃ</UniCamKur>
+  </Key>
+  <Key id="79">
+    <KeyCode>78</KeyCode>
+    <WaQuyet>1</WaQuyet>
+    <GilaiPraong>1</GilaiPraong>
+    <CamEFEO>1</CamEFEO>
+    <KawomTuekTuah>1</KawomTuekTuah>
+    <UniCamKur>꩑</UniCamKur>
+  </Key>
+  <Key id="80">
+    <KeyCode>79</KeyCode>
+    <WaQuyet>2</WaQuyet>
+    <GilaiPraong>2</GilaiPraong>
+    <CamEFEO>2</CamEFEO>
+    <KawomTuekTuah>2</KawomTuekTuah>
+    <UniCamKur>꩒</UniCamKur>
+  </Key>
+  <Key id="81">
+    <KeyCode>80</KeyCode>
+    <WaQuyet>3</WaQuyet>
+    <GilaiPraong>3</GilaiPraong>
+    <CamEFEO>3</CamEFEO>
+    <KawomTuekTuah>3</KawomTuekTuah>
+    <UniCamKur>꩓</UniCamKur>
+  </Key>
+  <Key id="82">
+    <KeyCode>81</KeyCode>
+    <WaQuyet>4</WaQuyet>
+    <GilaiPraong>4</GilaiPraong>
+    <CamEFEO>4</CamEFEO>
+    <KawomTuekTuah>4</KawomTuekTuah>
+    <UniCamKur>꩔</UniCamKur>
+  </Key>
+  <Key id="83">
+    <KeyCode>82</KeyCode>
+    <WaQuyet>5</WaQuyet>
+    <GilaiPraong>5</GilaiPraong>
+    <CamEFEO>5</CamEFEO>
+    <KawomTuekTuah>5</KawomTuekTuah>
+    <UniCamKur>꩕</UniCamKur>
+  </Key>
+  <Key id="84">
+    <KeyCode>83</KeyCode>
+    <WaQuyet>6</WaQuyet>
+    <GilaiPraong>6</GilaiPraong>
+    <CamEFEO>6</CamEFEO>
+    <KawomTuekTuah>6</KawomTuekTuah>
+    <UniCamKur>꩖</UniCamKur>
+  </Key>
+  <Key id="85">
+    <KeyCode>84</KeyCode>
+    <WaQuyet>7</WaQuyet>
+    <GilaiPraong>7</GilaiPraong>
+    <CamEFEO>7</CamEFEO>
+    <KawomTuekTuah>7</KawomTuekTuah>
+    <UniCamKur>꩗</UniCamKur>
+  </Key>
+  <Key id="86">
+    <KeyCode>85</KeyCode>
+    <WaQuyet>8</WaQuyet>
+    <GilaiPraong>8</GilaiPraong>
+    <CamEFEO>8</CamEFEO>
+    <KawomTuekTuah>8</KawomTuekTuah>
+    <UniCamKur>꩘</UniCamKur>
+  </Key>
+  <Key id="87">
+    <KeyCode>86</KeyCode>
+    <WaQuyet>9</WaQuyet>
+    <GilaiPraong>9</GilaiPraong>
+    <CamEFEO>9</CamEFEO>
+    <KawomTuekTuah>9</KawomTuekTuah>
+    <UniCamKur>꩙</UniCamKur>
+  </Key>
+  <Key id="88">
+    <KeyCode>87</KeyCode>
+    <WaQuyet>0</WaQuyet>
+    <GilaiPraong>0</GilaiPraong>
+    <CamEFEO>0</CamEFEO>
+    <KawomTuekTuah>0</KawomTuekTuah>
+    <UniCamKur>꩐</UniCamKur>
+  </Key>
+  <Key id="89">
+    <KeyCode>88</KeyCode>
+    <WaQuyet>,</WaQuyet>
+    <GilaiPraong>,</GilaiPraong>
+    <CamEFEO>,</CamEFEO>
+    <KawomTuekTuah>V</KawomTuekTuah>
+    <UniCamKur>꩝</UniCamKur>
+  </Key>
+  <Key id="90">
+    <KeyCode>89</KeyCode>
+    <WaQuyet>.</WaQuyet>
+    <GilaiPraong>.</GilaiPraong>
+    <CamEFEO>&lt;</CamEFEO>
+    <KawomTuekTuah>B</KawomTuekTuah>
+    <UniCamKur>꩞</UniCamKur>
+  </Key>
+  <Key id="91">
+    <KeyCode>90</KeyCode>
+    <WaQuyet>Đ</WaQuyet>
+    <GilaiPraong>
+    </GilaiPraong>
+    <CamEFEO>~</CamEFEO>
+    <KawomTuekTuah>
+    </KawomTuekTuah>
+    <UniCamKur>꩜</UniCamKur>
+  </Key>
+  <Key id="92">
+    <KeyCode>91</KeyCode>
+    <WaQuyet>:</WaQuyet>
+    <GilaiPraong>:</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>
+    </KawomTuekTuah>
+    <UniCamKur>꩟</UniCamKur>
+  </Key>
+  <Key id="93">
+    <KeyCode>92</KeyCode>
+    <WaQuyet>!</WaQuyet>
+    <GilaiPraong>!</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>H</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="94">
+    <KeyCode>93</KeyCode>
+    <WaQuyet>?</WaQuyet>
+    <GilaiPraong>?</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>Q</KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="95">
+    <KeyCode>94</KeyCode>
+    <WaQuyet>_</WaQuyet>
+    <GilaiPraong>-</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>
+    </KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="96">
+    <KeyCode>95</KeyCode>
+    <WaQuyet>+</WaQuyet>
+    <GilaiPraong>+</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>
+    </KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+  <Key id="97">
+    <KeyCode>96</KeyCode>
+    <WaQuyet>|</WaQuyet>
+    <GilaiPraong>|</GilaiPraong>
+    <CamEFEO>
+    </CamEFEO>
+    <KawomTuekTuah>
+    </KawomTuekTuah>
+    <UniCamKur>
+    </UniCamKur>
+  </Key>
+</Keys>
