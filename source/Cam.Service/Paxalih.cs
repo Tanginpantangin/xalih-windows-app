@@ -35,7 +35,7 @@ namespace Cam.Service
         protected Hashtable _keyCodeToCamEFEO;
         protected Hashtable _keyCodeToKTT;
         protected Hashtable _keyCodeToUniCamKur;
-        protected Hashtable _keyCodeToUniCamVN; 
+        protected Hashtable _keyCodeToUniCamVN;
 
         //Trans To Akhar Cam
         protected Hashtable _diipToMaTai;
@@ -165,7 +165,7 @@ namespace Cam.Service
             {
                 case Model.Enum.FontYapata:
                     textControl.Font = new Font(Model.Constant.FONT_YAPATA_NAME, Model.Constant.DEFAULT_FONT_CAM_SIZE);
-                    sizeControl.Text  = Model.Constant.DEFAULT_FONT_CAM_SIZE.ToString();
+                    sizeControl.Text = Model.Constant.DEFAULT_FONT_CAM_SIZE.ToString();
                     break;
 
                 case Model.Enum.FontGilaiPraong:
@@ -386,7 +386,7 @@ namespace Cam.Service
             {
                 word = word.ToUpper();
             }
-           
+
             bool ret = true;
             string wordReplaced = string.Empty;
             foreach (char c in word)
@@ -527,6 +527,18 @@ namespace Cam.Service
             return sabaoh >= Model.AKhar.KakMatai && sabaoh <= Model.AKhar.PaohDaNih || sabaoh == Model.AKhar.PaohNgâk;
         }
 
+        protected bool CheckEndCharacter(Model.AKhar sabaoh)
+        {
+            Model.AKhar[] endCharacters = new Model.AKhar[] 
+            { Model.AKhar.PaohNgâk,  Model.AKhar.TakaiKikTutTakaiMâkDalem, 
+                Model.AKhar.TakaiKikTutTakaiMâkLingiw, Model.AKhar.TakaiKikTutTakaiYak, Model.AKhar.TakaiThekTutTakaiMâk, 
+                Model.AKhar.TakaiThekPaohNgâk, Model.AKhar.TraohAwPaohNgâk, Model.AKhar.TraohAwTutTakaiMâk
+            };
+
+            return (sabaoh >= Model.AKhar.KakMatai && sabaoh <= Model.AKhar.PaohDaNih) || 
+                Array.IndexOf(endCharacters, sabaoh) != -1;
+        }
+
         /// <summary>
         /// Check is takai akhar
         /// </summary>
@@ -547,7 +559,7 @@ namespace Cam.Service
             {   Model.AKhar.TakaiKik, Model.AKhar.TakaiKikTutTakaiMâkDalem, Model.AKhar.TakaiThek,
                 Model.AKhar.TakaiKuk, Model.AKhar.TakaiKâk, Model.AKhar.TraohAw, Model.AKhar.BalauTapong
             };
-           
+
             return Array.IndexOf(arr_TakaiAkharLikuk, sabaoh) != -1;
         }
 
@@ -560,7 +572,7 @@ namespace Cam.Service
             return sabaoh == Model.AKhar.DarSa || sabaoh == Model.AKhar.DarDua;
         }
 
-        
+
         /// <summary>
         /// Check is Takai Akhar sap paoh deng luic di abih
         /// </summary>

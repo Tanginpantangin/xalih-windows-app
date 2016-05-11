@@ -166,7 +166,7 @@ namespace Cam.Service
             {
 
                 Model.AKhar item = word[i];
-                if (this.Check_AkharMatai(word[i]) && i != word.Count - 1 && i != 0)
+                if (this.CheckEndCharacter(word[i]) && i != word.Count - 1 && i != 0)
                 {
                     word1 = word.GetRange(0, i + 1);
                     word2 = word.GetRange(i + 1, word.Count - (i + 1));
