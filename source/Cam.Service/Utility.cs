@@ -270,6 +270,11 @@ namespace Cam.Service
                 List<Model.AKhar> sappaohE = new List<Model.AKhar>();
                 sappaohE.Add(Model.AKhar.DarDua);
                 transKeycode.Add("E", sappaohE);
+
+                List<Model.AKhar> iim = new List<Model.AKhar>();
+                iim.Add(Model.AKhar.TakaiKiak);
+                iim.Add(Model.AKhar.TakaiKikTutTakaiMâkLingiw);
+                transKeycode.Add("IIM", iim);
             }
 
             //Add au
