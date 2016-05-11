@@ -530,12 +530,13 @@ namespace Cam.Service
         protected bool CheckEndCharacter(Model.AKhar sabaoh)
         {
             Model.AKhar[] endCharacters = new Model.AKhar[] 
-            { Model.AKhar.PaohNgâk, Model.AKhar.Balau, Model.AKhar.BalauTapong, Model.AKhar.TakaiKikTutTakaiMâkDalem, 
+            { Model.AKhar.PaohNgâk,  Model.AKhar.TakaiKikTutTakaiMâkDalem, 
                 Model.AKhar.TakaiKikTutTakaiMâkLingiw, Model.AKhar.TakaiKikTutTakaiYak, Model.AKhar.TakaiThekTutTakaiMâk, 
                 Model.AKhar.TakaiThekPaohNgâk, Model.AKhar.TraohAwPaohNgâk, Model.AKhar.TraohAwTutTakaiMâk
             };
 
-            return sabaoh >= Model.AKhar.KakMatai && sabaoh <= Model.AKhar.PaohDaNih || Array.IndexOf(endCharacters, sabaoh) != -1;
+            return (sabaoh >= Model.AKhar.KakMatai && sabaoh <= Model.AKhar.PaohDaNih) || 
+                Array.IndexOf(endCharacters, sabaoh) != -1;
         }
 
         /// <summary>
