@@ -303,7 +303,7 @@ namespace Cam.Service
                     if ((this._diipToMaTai.ContainsKey(nextAkhar) && !this.HuLanglikuk(retForCode) && ret.Count != 0) ||
                         (this.IsConsonant(nextAkhar) && !this._diipToMaTai.ContainsKey(nextAkhar)))
                     {
-                        if (akhar == Model.AKhar.Ik)
+                        if (akhar == Model.AKhar.Ik && ret.Count != 0)
                         {
                             akhar = Model.AKhar.TakaiKik;
                         }
@@ -531,7 +531,7 @@ namespace Cam.Service
                     if ((this._diipToMaTai.ContainsKey(nextAkhar) && !this.HuLanglikuk(retForCode) && ret.Count != 0) ||
                         (this.IsConsonant(nextAkhar) && !this._diipToMaTai.ContainsKey(nextAkhar)))
                     {
-                        if (akhar == Model.AKhar.Ik)
+                        if (akhar == Model.AKhar.Ik && ret.Count != 0)
                         {
                             akhar = Model.AKhar.TakaiKik;
                         }
@@ -733,7 +733,7 @@ namespace Cam.Service
                     if ((this._diipToMaTai.ContainsKey(nextAkhar) && !this.HuLanglikuk(retForCode) && ret.Count != 0) ||
                         (this.IsConsonant(nextAkhar) && !this._diipToMaTai.ContainsKey(nextAkhar)))
                     {
-                        if (akhar == Model.AKhar.Ik)
+                        if (akhar == Model.AKhar.Ik && ret.Count != 0)
                         {
                             akhar = Model.AKhar.TakaiKik;
                         }
