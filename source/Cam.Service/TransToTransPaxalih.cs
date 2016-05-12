@@ -248,7 +248,7 @@ namespace Cam.Service
         /// <param name="word">word</param>
         private String KTTToInrasaraByWord(String word)
         {
-            string result = word;
+            string result = word.ToLower();
             Hashtable hashKTTT2Inra = new Hashtable();
 
             hashKTTT2Inra.Add("aa", "a");
