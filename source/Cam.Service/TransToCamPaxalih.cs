@@ -408,7 +408,9 @@ namespace Cam.Service
                     }
 
                     //"e"
-                    if (akhar == Model.AKhar.TakaiThek && !(akharList.Count > 1 && akharList[akharList.Count - 2] == Model.AKhar.TakaiKuk))
+                    if (akhar == Model.AKhar.TakaiThek && 
+                        !(akharList.Count > 1 && akharList[akharList.Count - 2] == Model.AKhar.TakaiKuk)
+                        && i == akharList.Count - 1 )
                     {
                         akharList.Add(Model.AKhar.BalauTapong);
                         continue;
@@ -636,7 +638,9 @@ namespace Cam.Service
                     }
 
                     //"e"
-                    if (akhar == Model.AKhar.TakaiThek && !(akharList.Count > 1 && akharList[akharList.Count - 2] == Model.AKhar.TakaiKuk))
+                    if (akhar == Model.AKhar.TakaiThek && 
+                        !(akharList.Count > 1 && akharList[akharList.Count - 2] == Model.AKhar.TakaiKuk)
+                        && i == akharList.Count - 1 )
                     {
                         akharList.Add(Model.AKhar.BalauTapong);
                         continue;
@@ -841,7 +845,9 @@ namespace Cam.Service
                     }
 
                     //"e"
-                    if (akhar == Model.AKhar.TakaiThek && !(akharList.Count > 1 && akharList[akharList.Count - 2] == Model.AKhar.TakaiKuk))
+                    if (akhar == Model.AKhar.TakaiThek && 
+                        !(akharList.Count > 1 && akharList[akharList.Count - 2] == Model.AKhar.TakaiKuk)
+                        && i == akharList.Count - 1 )
                     {
                         akharList.Add(Model.AKhar.BalauTapong);
                         continue;
