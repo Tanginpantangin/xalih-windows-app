@@ -369,6 +369,20 @@ namespace Cam.Service
             return ret;
         }
 
+        protected void ConvertEndChar(ref List<Model.AKhar> list)
+        {
+            var count = list.Count;
+            if (count == 0)
+            {
+                return;
+            }
+
+            if (list[count - 1] == Model.AKhar.TakaiKikTutTakaiMâkDalem)
+            {
+                list[count - 1] = Model.AKhar.TakaiKik;
+            }
+        }
+
         #endregion
 
         #region Private Methods
