@@ -209,6 +209,10 @@ namespace Cam.Service
                         }
                     }
 
+                    if (wordArr.Length > 1)
+                    {
+                        base.ConvertEndChar(ref wordAkhar);
+                    }
                     ret.AddRange(wordAkhar);
                     roundCount++;
                 }
@@ -252,6 +256,18 @@ namespace Cam.Service
         private void ToKeycodeFromCamEFEO(ref String word, ref List<Model.AKhar> ret, ref List<Model.AKhar> retForCode)
         {
             List<Model.AKhar> akharList = this.ToKeyCodeByChar(ref word, retForCode);
+
+            // Insert akhar Ak in case not contain akhar diip
+            if (String.IsNullOrEmpty(word) )
+            {
+                List<Model.AKhar> finalWord = Utility.CopyListAkhar(ret);
+                finalWord.InsertRange(0,akharList);
+
+                if(this.GetIndexAkharDiip(finalWord) == finalWord.Count){
+                    ret.Insert(0, Model.AKhar.Ak);
+                }
+            }
+
             for (int i = 0; i < akharList.Count; i++)
             {
                 Model.AKhar akhar = akharList[i];
@@ -272,8 +288,10 @@ namespace Cam.Service
                 if (!String.IsNullOrEmpty(word))
                 {
                     //Convert akhar diip to takai akhar
-                    if (this._diipToTaKai.ContainsKey(akhar) && !this._diipToMaTai.ContainsKey(nextAkhar)
-                        && !this.HuLanglikuk(retForCode) && ret.Count != 0 && !this.Check_AkharMatai(ret[ret.Count - 1]))
+                    if (this._diipToTaKai.ContainsKey(akhar) && !this._diipToMaTai.ContainsKey(nextAkhar) &&
+                        ret.Count != 0 &&
+                        (!this.HuLanglikuk(retForCode) || ret[0] == Model.AKhar.Ak) && 
+                         !this.Check_AkharMatai(ret[ret.Count - 1]))
                     {
 
                         if (!((akhar == Model.AKhar.Rak && ret.Count != 0 && this.IsVowels(ret[ret.Count - 1])) ||
@@ -415,6 +433,7 @@ namespace Cam.Service
                         akharList.Add(Model.AKhar.BalauTapong);
                         continue;
                     }
+                   
                 }
 
                 //Remove takai kâkk when have consonant KareiCrih
@@ -481,6 +500,19 @@ namespace Cam.Service
         {
 
             List<Model.AKhar> akharList = this.ToKeyCodeByChar(ref word, retForCode);
+            
+            // Insert akhar Ak in case not contain akhar diip
+            if (String.IsNullOrEmpty(word))
+            {
+                List<Model.AKhar> finalWord = Utility.CopyListAkhar(ret);
+                finalWord.InsertRange(0, akharList);
+
+                if (this.GetIndexAkharDiip(finalWord) == finalWord.Count)
+                {
+                    ret.Insert(0, Model.AKhar.Ak);
+                }
+            }
+
             for (int i = 0; i < akharList.Count; i++)
             {
 
@@ -502,9 +534,12 @@ namespace Cam.Service
                 //curent char is "i" or "é" and the next char is akhar matai
                 if (!String.IsNullOrEmpty(word))
                 {
+
                     //Convert akhar diip to takai akhar
-                    if (this._diipToTaKai.ContainsKey(akhar) && !this._diipToMaTai.ContainsKey(nextAkhar)
-                        && !this.HuLanglikuk(retForCode) && ret.Count != 0 && !this.Check_AkharMatai(ret[ret.Count - 1]))
+                    if (this._diipToTaKai.ContainsKey(akhar) && !this._diipToMaTai.ContainsKey(nextAkhar) &&
+                        ret.Count != 0 &&
+                        (!this.HuLanglikuk(retForCode) || ret[0] == Model.AKhar.Ak) && 
+                         !this.Check_AkharMatai(ret[ret.Count - 1]))
                     {
 
                         if (!((akhar == Model.AKhar.Rak && ret.Count != 0 && this.IsVowels(ret[ret.Count - 1])) ||
@@ -670,6 +705,19 @@ namespace Cam.Service
         private void ToKeycodeFromKTT(ref String word, ref List<Model.AKhar> ret, ref List<Model.AKhar> retForCode, ref Model.AKhar preChar)
         {
             List<Model.AKhar> akharList = this.ToKeyCodeByChar(ref word, retForCode);
+
+            // Insert akhar Ak in case not contain akhar diip
+            if (String.IsNullOrEmpty(word))
+            {
+                List<Model.AKhar> finalWord = Utility.CopyListAkhar(ret);
+                finalWord.InsertRange(0, akharList);
+
+                if (this.GetIndexAkharDiip(finalWord) == finalWord.Count)
+                {
+                    ret.Insert(0, Model.AKhar.Ak);
+                }
+            }
+
             for (int i = 0; i < akharList.Count; i++)
             {
                 Model.AKhar akhar = akharList[i];
@@ -708,8 +756,10 @@ namespace Cam.Service
                 if (!String.IsNullOrEmpty(word))
                 {
                     //Convert akhar diip to takai akhar
-                    if (this._diipToTaKai.ContainsKey(akhar) && !this._diipToMaTai.ContainsKey(nextAkhar)
-                        && !this.HuLanglikuk(retForCode) && ret.Count != 0 && !this.Check_AkharMatai(ret[ret.Count - 1]))
+                    if (this._diipToTaKai.ContainsKey(akhar) && !this._diipToMaTai.ContainsKey(nextAkhar) &&
+                        ret.Count != 0 &&
+                        (!this.HuLanglikuk(retForCode) || ret[0] == Model.AKhar.Ak) &&
+                         !this.Check_AkharMatai(ret[ret.Count - 1]))
                     {
 
                         if (!((akhar == Model.AKhar.Rak && ret.Count != 0 && this.IsVowels(ret[ret.Count - 1])) ||
